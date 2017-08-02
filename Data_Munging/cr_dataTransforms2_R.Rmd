@@ -1,0 +1,133 @@
+---
+title: "CR Scraping Project - Reviews Tables"
+author: "TheMitchWorksPro"
+date: "7/30/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Quick Look at Data
+
+Look at Data from Python merging of Reviews
+
+```{r cell1}
+filesToView = c("cr_reviewsPage_recs_w_Rvws.csv",
+                "cr_reviewsPage_recs_w_NoRvws.csv",
+                "cr_reviewPageURLs_AllComputers.csv")
+
+df_Rvws <- read.csv(filesToView[1], stringsAsFactors = FALSE)
+head(df_Rvws)
+
+```
+
+```{r}
+## preparing data for possible use in a word cloud ... first one found wants data in the format of just one giant text file, not records.
+## code might accept a column of data if nothing else is with it so we'll try that first:
+## vision is separate word clouds for "good reviews" versus "bad reviews"
+## on 5 star rating we will make the break point 2.5
+
+df_Rvws <- df_Rvws %>% mutate(., RevwsGood = ifelse(user_rating > 2.5, 1, 0))  # 1 = TRUE / 2 = FALSE
+head(df_Rvws)
+# write.csv(df_Rvws, filesToView[1])  ## uncomment to update source file
+
+```
+
+```{r}
+summary(df_Rvws)
+positive_reviews <- 
+  df_Rvws %>% filter(RevwsGood == 1) %>% select(., user_review_content)
+  
+negative_reviews <- 
+  df_Rvws %>% filter(RevwsGood == 0) %>% select(., user_review_content)
+
+```
+
+```{r}
+# quick check of the data
+head(positive_reviews)  # note: click left arrow to make content appear
+head(negative_reviews)  # looks like it outputs an index and a column and then won't display both in the window
+
+```
+
+
+```{r}
+
+# Create files for input to word_cloud
+write.table(positive_reviews, 'word_cloud_txt_positive.txt', sep=",", col.names=F, row.names=F)
+write.table(negative_reviews, 'word_cloud_txt_negative.txt', sep=",", col.names=F, row.names=F)
+
+# created for a python spec but it then turned out the python library wasn't working
+
+```
+
+
+```{r}
+
+df_NoRvws <- read.csv(filesToView[2], stringsAsFactors = FALSE)
+head(df_NoRvws)
+
+```
+
+```{r}
+
+df_compPrices <- read.csv(filesToView[3], stringsAsFactors = FALSE)
+head(df_compPrices)
+
+```
+
+```{r}
+summary(df_compPrices)
+```
+
+```{r}
+# quick look at some of the fields ... code in this cell edited to spot check sections ...
+
+# writers_df[grep("4", writers_df$Age.At.Death),]
+# df_NoRvws[grep("Core i5", df_NoRvws$prod_short_descr),'prod_short_descr']
+# ideas from Mike: stri_detect_regex(), stri_extract_all_regex()
+df_NoRvws[grep("desktop", df_NoRvws$prod_class), ]
+
+```
+
+```{r}
+# fix the one value that is different from  other tables
+
+unique(df_NoRvws$prod_class)
+unique(df_compPrices$prod_class)
+df_compPrices$prod_class[df_compPrices$prod_class == "desktop pcs"] = "desktop-computer"
+
+```
+
+```{r}
+# checking column replaced right
+unique(df_compPrices$prod_class)
+# check probable outlier
+df_compPrices[df_compPrices$price < 150, ]  # < 200 included chromebooks and cheap laptops
+
+```
+
+```{r}
+nrow(df_compPrices)
+df_compPrices <- df_compPrices[df_compPrices$price > 125, ]
+nrow(df_compPrices)
+
+```
+
+```{r}
+# if we want to delete these columns ## leaving them in for now
+# df_compPrices['X'] <- NULL
+# df_compPrices['index'] <- NULL
+
+# issue w/ product keys during attempted join ... this will solve the problem:
+df_compPrices <- 
+  df_compPrices %>% mutate(., url2 = paste0(gsub('http:', 'https:', url), "specs"))
+
+```
+
+```{r}
+write.csv(df_compPrices, "cr_reviewsPage_PriceInfo.csv")
+```
+

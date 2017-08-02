@@ -1,0 +1,109 @@
+---
+title: "Scrapy Project - Word Cloud Experiments"
+author: "TheMitchWorksPro"
+date: "8/1/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Word Clouds Based on CR Computer Reviews
+
+Word Cloud based on Negative Reviews (Reviewer gave score of less than 2.5 on scale of 1 to 5).
+
+
+```{r setupLibs, warning=FALSE}
+
+# Install
+# install.packages("tm")  # for text mining
+# install.packages("SnowballC") # for text stemming
+# install.packages("wordcloud") # word-cloud generator 
+# install.packages("RColorBrewer") # color palettes
+# Load
+
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+
+```
+
+Source text files:
+
+```{r}
+
+# text1 <- readLines(file.choose())  # manually selected path:
+text1 <- readLines("./corpus/target/word_cloud_txt_positive.txt")
+text2 <- readLines("./corpus/target/word_cloud_txt_negative.txt") # negativec reviews
+text3 <- paste0(text1," ", text2)
+getwd()
+```
+
+Begin processing ...
+
+```{r}
+# read file for corpus:
+docs3 <- Corpus(VectorSource(text3))  # biulding two of them ...
+
+```
+
+Text Cleaning:
+
+```{r}
+
+inspectRetrn3 <- inspect(docs3)  # run this variable to view all of the documents
+toSpace3 <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs3 <- tm_map(docs3, toSpace3, "/")  # replacing characters to establish true "words for the process"
+docs3 <- tm_map(docs3, toSpace3, "@")
+docs3 <- tm_map(docs3, toSpace3, "\\|")
+
+# Convert the text to lower case
+docs3 <- tm_map(docs3, content_transformer(tolower))
+# Remove numbers
+docs3 <- tm_map(docs3, removeNumbers)
+# Remove english common stopwords
+docs3 <- tm_map(docs3, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+docs3 <- tm_map(docs3, removeWords, c("blabla1", "blabla2")) 
+# Remove punctuations
+docs3 <- tm_map(docs3, removePunctuation)
+# Eliminate extra white spaces
+docs3 <- tm_map(docs3, stripWhitespace)
+# Text stemming
+docs3 <- tm_map(docs3, stemDocument)
+
+```
+
+Build a term-document matrix:
+
+```{r}
+
+dtm3 <- TermDocumentMatrix(docs3)
+m3 <- as.matrix(dtm3)
+v3 <- sort(rowSums(m3),decreasing=TRUE)
+d3 <- data.frame(word = names(v3),freq=v3)
+head(d3, 25)
+
+```
+Generate the Word cloud
+
+```{r}
+
+set.seed(1234)
+wordcloud(words = d3$word, freq = d3$freq, min.freq = 1,
+          max.words=200, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"))
+
+```
+
+```{r}
+
+barplot(d3[1:25,]$freq, las = 2, names.arg = d3[1:25,]$word,
+        col ="navy", main ="Most Frequent Words - All Reviews",
+        ylab = "Word frequencies")
+
+```
+

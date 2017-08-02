@@ -1,0 +1,187 @@
+---
+title: "CR Web Scraping Project - Spec Simple Transform"
+author: "TheMitchWorksPro"
+date: "7/30/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libCell, warning=FALSE}
+# run libraries in this cell
+
+library(dplyr)
+library(tidyr)
+
+```
+
+
+## Simple Transforms of Data
+
+This notebook uses R to effect simple transformations of data for the consumer reports webscraping prjoect.
+
+```{r cell1}
+# quick look at the data structure
+spec_df_fileName <- "./scraping_file_inputs/cr_spider_specs.csv"
+spec_df <- read.csv(spec_df_fileName, stringsAsFactors = FALSE)
+spec_df_long <- spec_df %>% unique()  ## eliminate duplicate records
+rm(spec_df)
+head(spec_df_long)
+dim(spec_df_long)
+
+```
+
+```{r cell2}
+
+# transform table into wide format so each variable is accessible
+
+spec_df_wide <- spec_df_long %>% spread(spec_label, spec_value, fill = NA, convert = TRUE)
+head(spec_df_wide)
+tail(spec_df_wide)
+nrow(spec_df_wide)
+
+```
+
+```{r summary1}
+## basic stats on data transformed so far
+summary(spec_df_long)
+
+```
+
+```{r summary2}
+
+summary(spec_df_wide)
+
+```
+
+```{r}
+## more to come ...
+unique(spec_df_wide$prod_class)  # reminder of categories
+
+```
+
+
+Save Transform Results to new files:
+```{r}
+## store results in csv files
+# getwd()
+write.csv(spec_df_long, "cr_specsForProds_long.csv") # eliminates duplicate records from source data
+write.csv(spec_df_wide, "cr_specsForProds_wide.csv") # transforms long stack into proper attribute columns
+
+```
+
+```{r}
+# create boolean cells in wide_df
+# some test checks on the first one ...
+
+unique(spec_df_wide$Thunderbolt_port)
+
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == "Yes",])
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == "No",])
+nrow(spec_df_wide[is.na(spec_df_wide$Thunderbolt_port), ])
+
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Thunderbolt_port = ifelse(Thunderbolt_port == "Yes", 1, Thunderbolt_port)) %>%
+       mutate(., Thunderbolt_port = ifelse(Thunderbolt_port == "No", 0, Thunderbolt_port))
+
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == 1,])
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == 0,])
+nrow(spec_df_wide[is.na(spec_df_wide$Thunderbolt_port), ])
+
+```
+
+```{r}
+# 30 records ... should we keep them?
+spec_df_wide[is.na(spec_df_wide$Thunderbolt_port), ]  # all chromebook ... should not have this value anyway
+
+```
+
+```{r}
+
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Thunderbolt_port = ifelse(is.na(Thunderbolt_port), 0, Thunderbolt_port))
+
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == 1,])
+nrow(spec_df_wide[spec_df_wide$Thunderbolt_port == 0,])
+nrow(spec_df_wide[is.na(spec_df_wide$Thunderbolt_port), ])
+
+```
+
+
+```{r}
+# confirming values present in these fields:
+
+unique(spec_df_wide$Thunderbolt_port)
+unique(spec_df_wide$Facial_recognition)
+unique(spec_df_wide$Fingerprint_reader)
+unique(spec_df_wide$Gigabit_Ethernet)    # re ran after transformation (originally: "Yes", "No" only)
+
+```
+
+```{r}
+
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Has_Facial_recognition = ifelse(Facial_recognition == "No", 0, ifelse(is.na(Facial_recognition), 0, 1)))
+
+# bug fix ... above condition did not pick up all the NAs somehow:
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Has_Facial_recognition = ifelse(is.na(Has_Facial_recognition), 0, Has_Facial_recognition))
+
+```
+
+```{r}
+
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Has_FingerPrintReader = ifelse(spec_df_wide$Fingerprint_reader == "No", 0, 
+                                                ifelse(spec_df_wide$Fingerprint_reader == "Yes", 1, 0)))
+
+# bug fix ... above condition did not pick up all the NAs somehow:
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Has_FingerPrintReader = ifelse(is.na(Has_FingerPrintReader), 0, Has_FingerPrintReader))
+
+```
+
+```{r}
+# spec_df_wide$Gigabit_Ethernet
+
+spec_df_wide <- spec_df_wide %>% 
+       mutate(., Gigabit_Ethernet = ifelse(Gigabit_Ethernet == "Yes", 1, Gigabit_Ethernet)) %>%
+       mutate(., Gigabit_Ethernet = ifelse(Gigabit_Ethernet == "No", 0, Gigabit_Ethernet))
+
+```
+
+
+```{r}
+# spec_df_wide$Thunderbolt_port2 <- NULL
+head(spec_df_wide)
+
+```
+
+```{r}
+unique(spec_df_wide$WiFi_type)
+spec_df_wide[is.na(spec_df_wide$WiFi_type),]  ## wifi => 94 rows missing wifi type on computers that most likely have it
+
+```
+
+```{r}
+# new need - suitable for gaming:
+
+unique(spec_df_wide$Suitable_for_gaming)
+# spot check of NAs to see if we can get rid of them:
+spec_df_wide[is.na(spec_df_wide$Suitable_for_gaming), ]
+
+# data includes several models with AMD Radeeon and Nvidia GeForce Graphics cards, so clearly the data is incomplete
+# memory spec is light on both, but it should have been possible to raite at least some of the 204 missing values ...
+
+```
+
+
+
+```{r}
+# save changes to the csv
+write.csv(spec_df_wide, "cr_specsForProds_wide.csv") 
+
+```
+

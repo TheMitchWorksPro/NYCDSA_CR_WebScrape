@@ -1,0 +1,105 @@
+---
+title: "Scrapy Project - Word Cloud Experiments"
+author: "TheMitchWorksPro"
+date: "8/1/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Word Clouds Based on CR Computer Reviews
+
+Word Cloud based on Negative Reviews (Reviewer gave score of less than 2.5 on scale of 1 to 5).
+
+
+```{r setupLibs, warning=FALSE}
+
+# Install
+# install.packages("tm")  # for text mining
+# install.packages("SnowballC") # for text stemming
+# install.packages("wordcloud") # word-cloud generator 
+# install.packages("RColorBrewer") # color palettes
+# Load
+
+library("tm")
+library("SnowballC")
+library("wordcloud")
+library("RColorBrewer")
+
+```
+
+Source text files:
+
+```{r}
+
+# text1 <- readLines(file.choose())  # manually selected path:
+text2 <- readLines("./corpus/target/word_cloud_txt_negative.txt") # negativec reviews
+getwd()
+```
+
+Begin processing ...
+
+```{r}
+# read file for corpus:
+docs2 <- Corpus(VectorSource(text2))  
+
+```
+
+Text Cleaning:
+
+```{r}
+
+inspectRetrn2 <- inspect(docs2)  # run this variable to view all of the documents
+toSpace2 <- content_transformer(function (x , pattern ) gsub(pattern, " ", x))
+docs2 <- tm_map(docs2, toSpace2, "/")  # replacing characters to establish true "words for the process"
+docs2 <- tm_map(docs2, toSpace2, "@")
+docs2 <- tm_map(docs2, toSpace2, "\\|")
+
+# Convert the text to lower case
+docs2 <- tm_map(docs2, content_transformer(tolower))
+# Remove numbers
+docs2 <- tm_map(docs2, removeNumbers)
+# Remove english common stopwords
+docs2 <- tm_map(docs2, removeWords, stopwords("english"))
+# Remove your own stop word
+# specify your stopwords as a character vector
+docs2 <- tm_map(docs2, removeWords, c("blabla1", "blabla2")) 
+# Remove punctuations
+docs2 <- tm_map(docs2, removePunctuation)
+# Eliminate extra white spaces
+docs2 <- tm_map(docs2, stripWhitespace)
+# Text stemming
+docs2 <- tm_map(docs2, stemDocument)
+
+```
+
+Build a term-document matrix:
+
+```{r}
+
+dtm2 <- TermDocumentMatrix(docs2)
+m2 <- as.matrix(dtm2)
+v2 <- sort(rowSums(m2),decreasing=TRUE)
+d2 <- data.frame(word = names(v2),freq=v2)
+head(d2, 25)
+
+```
+Generate the Word cloud
+
+```{r}
+
+set.seed(1234)
+wordcloud(words = d2$word, freq = d2$freq, min.freq = 1,
+          max.words=74, random.order=FALSE, rot.per=0.35, 
+          colors=brewer.pal(8, "Dark2"), scale=c(4,.5))
+
+```
+
+```{r}
+barplot(d2[1:25,]$freq, las = 2, names.arg = d2[1:25,]$word,
+        col ="red", main ="Most Frequent Words - Negative Reviews",
+        ylab = "Word frequencies")
+```
+

@@ -1,0 +1,114 @@
+brand,model,prod_class,prod_short_descr,num_usr_reviews,rec_rvw_rating,has_reviews,survey_cons,survey_pros,ratings_distribution,user_rating,user_rating_txt,user_rvw_hdln,submit_dateTime,submit_date,submit_time,rvw_username,rvw_userLocation,rvw_userCity,rvw_userState,rvw_userCountry,verified_buyer,verified_reviewer,user_review_content,btm_line_txt,url,reported_exceptions
+Dell,Dell Inspiron 20 3000 Intel computer,desktop-computer,"An all-in-one desktop computer with a 19.5-inch touchscreen tested with Windows 10 Home, an Intel Pentium N3700U 1.6GHz processor, 4GB of memory, a 1TB hard drive, Intel HD Graphics graphics, a DVD burner, and 2-piece speakers.",1,1.0,True,"CONS
+1 Difficult To Use
+1 Poor Software Bundle
+1 Slow
+1 Unreliable Performance","PROS
+1 Easy To Set Up
+1 Sleek Design","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,Good Luck,2016-08-12T18:10:33.082Z,2016-08-12,18:10:33.082,Jimmi DC,"Portland, OR.",Portland, OR.,USA,nan,nan,"Now I understand why I got this one so cheap. I didn't pay much for it on sale. They gave me another $70 off when I insisted on returning it. Hated it every since, MISTAKE.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-20-3000-intel-385660/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron 24 5000 computer,desktop-computer,"An all-in-one desktop computer with a 23.8-inch touchscreen tested with Windows 10 Home, an Intel Core i5-6400T 2.2GHz processor, 12GB of memory, a 1TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and 2-piece speakers.",1,4.0,True,"CONS
+No Cons","PROS
+1 Adequate Storage
+1 Easy To Set Up
+1 Easy To Use
+1 Fast
+1 Great Software Bundle","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",4.0,,I like it. User friendly.,2016-05-15T18:35:38.451Z,2016-05-15,18:35:38.451,meyermax,Grand Junction Co.,nan,Grand Junction Co.,USA,nan,Verified Reviewer,This computer is user friendly and has no tower taking up space. I love the wireless mouse and keyboard. It was in the price range I was looking for.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-24-5000-385661/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron 3668-7819BLK computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Pro, an Intel Core i7-7700 3.6GHz processor, 16GB of memory, a 2TB hard drive, Nvidia GeForce GT 730/Intel HD Graphics 630 graphics, a DVD burner, and no speakers.",3,1.7,True,"CONS
+No Cons","PROS
+No Pros","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 2
+1 Star
+1",2.0,,Doubtful,2017-07-16T20:26:57.032Z,2017-07-16,20:26:57.032,KHMilder,"Los Alamos, NM",Los Alamos, NM,USA,nan,nan,"KHMilder, again. I forgot to mention that when I first did the auto-installation of Windows 10 Pro, the last part of the process was to download a 4GB update. Because of the clogged network, it took over 12 hours to download the update. Both the original version and the updated version of the OS clogged the network.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-3668-7819blk-388970/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron 3668-7819BLK computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Pro, an Intel Core i7-7700 3.6GHz processor, 16GB of memory, a 2TB hard drive, Nvidia GeForce GT 730/Intel HD Graphics 630 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,2.0,,Very doubtful,2017-07-16T20:14:31.537Z,2017-07-16,20:14:31.537,khmilder,"Los Alamos, NM",Los Alamos, NM,USA,nan,nan,"It's difficult to give a full review of this product. Why? Because the automatic installation of Windows 10 that Dell put on the machine is awful. It installed unknown processes that have totally clogged my network bandwidth. It doesn't matter if I use wireless or wired, these processes are consuming all of my bandwidth so, not only is this computer's performance awful, but it effects every other device on the network. I spent almost 2 hours on the phone with Dell technical support (in India) and they could not find a fix. They have elevated the support ticket to higher level engineers who will contact me in 3 day. I'll come back to this site with an update.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-3668-7819blk-388970/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron 3668-7819BLK computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Pro, an Intel Core i7-7700 3.6GHz processor, 16GB of memory, a 2TB hard drive, Nvidia GeForce GT 730/Intel HD Graphics 630 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,1.0,,A great computer ruined by a terrible wireless card,2017-07-04T16:47:51.569Z,2017-07-04,16:47:51.569,SF,Fort Lauderdale,nan,Fort Lauderdale,USA,nan,nan,Dell are you serious?? A top end processor and 16 RAM and then you put your cheap wireless card 1707 that only does 2.4mhz and not 5 and works terrible! I put my lenova yoga 700 right beside the dell computer and the difference was shocking!! The lenova yoga was blazing along and the Dell inspiron was actually losing connection at times. Why Dell would you make a top end computer and put in a wireless card that might as well be from the 90's. I am taking the computer back to Costco. I can't stand companies that make such terrible decisions as the one made here. If you only plug the computer in via Ethernet then you should be fine. If you intend to run wirelessly then don't buy this computer!,"No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-3668-7819blk-388970/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron I3647-3538BK computer,desktop-computer,"A compact desktop computer tested with Windows 8.1, an Intel Core i3-4160 3.6GHz processor, 4GB of memory, a 1TB hard drive, Intel HD Graphics 4400 graphics, a DVD burner, and no speakers.",1,5.0,True,"CONS
+1 I Have Nothing Negative","PROS
+1 Adequate Storage
+1 Easy To Set Up
+1 Easy To Use
+1 Fast","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Great computer,2016-05-17T12:36:38.411Z,2016-05-17,12:36:38.411,The Rick,"Atlanta, GA",Atlanta, GA,USA,nan,nan,"I bought this for home use - internet, email, kids homework, etc. it is a great computer and it could not be easier to use.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-inspiron-i3647-3538bk-383563/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,"Dell XPS 27"" computer",desktop-computer,"An all-in-one desktop computer with a 27-inch touchscreen tested with Windows 10 Home, an Intel Core i5-4460S 2.9GHz processor, 8GB of memory, a 1TB hard drive, Intel HD Graphics 4600 graphics, a DVD burner, and 2-piece speakers.",1,2.0,True,"CONS
+1 Unreliable Performance","PROS
+1 Adequate Storage
+1 Easy To Set Up
+1 Fast
+1 Sleek Design","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,Unhappy with this Dell XPS 27,2017-05-15T09:25:40.485Z,2017-05-15,09:25:40.485,JB Tex,Houston,nan,Houston,USA,nan,Verified Reviewer,"I liked this machine until it started having problems 3 days after its one year warranty expired. Sound card problems (which magically disappeared), touchscreen went crazy as though someone were touching rapidly all over the screen (disabled feature), wireless mouse feature began doing same as touchscreen soon after. More than mildly irritating. Will take some real incentive pricing for me to purchase Dell again.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-xps-27-385664/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell XPS 8910-4020SLV computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i7-6700 3.4GHz processor, 16GB of memory, a 1TB hard drive, Nvidia GeForce GTX 750Ti/Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",1,4.0,True,"CONS
+1 Limited Storage
+1 Only Has A 32 gb M2  Card","PROS
+1 Easy To Set Up
+1 Easy To Use
+1 Fast
+1 Quality Accessories","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",4.0,,Great Machine,2017-04-11T11:24:29.097Z,2017-04-11,11:24:29.097,elgallo,"Toronto, Canada",Toronto, Canada,USA,nan,nan,Great offering but it came with a 32GB M.2 card in Raid 0 to work with the 2TB 7200rpm included HDD. I purchased a separate M.2 PCIE card to mount a 512GB M.2 card to run as my boot drive with Windows 10 Pro instead of the Home version. This gives it a better startup speed and applications run faster too.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-xps-8910-4020slv-388099/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell XPS Tower computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 8GB of memory, a 1TB hard drive, NVIDIA GeForce 730/Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",2,3.5,True,"CONS
+No Cons","PROS
+1 Adequate Storage
+1 Easy To Set Up
+1 Easy To Use
+1 Fast
+1 Good Consumer Support","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,Not Great,2017-05-12T04:53:37.081Z,2017-05-12,04:53:37.081,Tom,New Jersey,nan,New Jersey,USA,nan,nan,"I was definitely disappointed as I have used consumer reports for years to pick out electronics and this one fell short. I am not tech savvy, and maybe that is the problem, but this computer has run slow since day one, takes an extremely long time to start, and now will not download apps from windows :(. Set up was easy, but using it is very frustrating.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-xps-tower-387884/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell XPS Tower computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 8GB of memory, a 1TB hard drive, NVIDIA GeForce 730/Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,5.0,,I would buy this computer again.,2016-11-24T04:57:26.128Z,2016-11-24,04:57:26.128,BigEasyComputist,"New Orleans, LA",New Orleans, LA,USA,nan,nan,"Before retiring, I was definitely a compute-intensive user. Now I am not a user that needs big computing muscle, so this computer probably is a bit of over-purchase for my needs. But I remain a loyal Dell fan, and I certainly love computing speed. Advice: I buy the four-year warranty, and always find it worth the price. After a couple of years of ownership, it is easy to forget something you once knew about the gazillion facts/properties of the computer. Then a quick call saves me the time of muddling through an issue on my own.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/desktop-computer/dell-xps-tower-387884/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 27-p020qe computer,desktop-computer,"An all-in-one desktop computer with a 27-inch touchscreen tested with Windows 10 Home, an Intel Core i5-6400T 2.2GHz processor, 8GB of memory, a 1TB hybrid drive, AMD Radeon R9 A375/Intel HD Graphics 530 graphics, and 2-piece speakers.",1,1.0,True,"CONS
+1 Honestlyit Sux
+1 This Thing Has Been Nothi","PROS
+1 None","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,27-p020qe is a piece of junk!!!!!,2016-09-27T16:25:25.561Z,2016-09-27,16:25:25.561,autoloader,shelby nc,nan,shelby nc,USA,nan,nan,It was a gift. It is very slow. you have no drive access. I would be ashamed to know I put something like this on the market for consumer!!!!!,"No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-recline-27-386663/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 750-114 computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 12GB of memory, a 2TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",5,2.4,True,"CONS
+2 Difficult To Use
+2 Hard To Set Up
+2 Poor Software Bundle
+2 Slow
+2 Unreliable Performance","PROS
+4 Adequate Storage
+3 Easy To Set Up
+3 Fast
+3 Sleek Design
+2 Reliable Performance","5 Stars 0
+4 Stars 1
+3 Stars 1
+2 Stars 2
+1 Star
+1",1.0,,HP Envy Desktop is a dog,2017-07-14T06:14:48.489Z,2017-07-14,06:14:48.489,Gunny,Oh,nan,Oh,USA,nan,nan,"I expected blazing speed and smooth flowing performance-doesn't happen. System is sluggish with cumbersome, hidden menus/sub-menus. Endless searching for even the most mundane and frequently used functions. It's choked with a huge amount of unwanted, unnecessary apps or teasers/lead-ins to apps/software. System randomly blanks out on desired web page. System appears to save browsing data even after it indicates that browsing history has been deleted. Some browsing history acquired on one day may not show up in browsing history until a day or more later leading you to believe that the browsing history has been deleted when it has not been. Apparent vs real control of browsing history is very deceptive especially using Bing web browser. HP wireless ""chicklets""keyboard function is sketchy. Many keystrokes are missed causing delays due to need to erase and back-up to add missed letter stroke. HP wireless mouse connectivity/action is erratic and ""jumps around"" uncontrollably. Mouse cursor ""trail"" can not keep up with movement action of clicker even after increasing tracking speed.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-750-114-384814/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 750-114 computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 12GB of memory, a 2TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,2.0,,Should not break after only 2 years,2017-05-22T04:32:35.544Z,2017-05-22,04:32:35.544,Gary,New York,nan,New York,USA,nan,Verified Reviewer,The hard drive failed after only 2 years. My Dell lasted for 10. There are better choices out there.,"No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-750-114-384814/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 750-114 computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 12GB of memory, a 2TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,4.0,,HP Envy,2016-04-06T13:23:57.827Z,2016-04-06,13:23:57.827,Ron,Summerville S.C.,nan,Summerville S.C.,USA,nan,Verified Reviewer,"Very fast,quiet.I got it new for $550.Very good value.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-750-114-384814/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 750-114 computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 12GB of memory, a 2TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,3.0,,Great machine if you don't want to upgrade.,2016-02-27T00:50:53.668Z,2016-02-27,00:50:53.668,AminoSC,"Charlotte, NC",Charlotte, NC,USA,nan,Verified Reviewer,You will have to upgrade the graphics card on this computer for gaming. Why a Blu-Ray burner is not standard on this type of machine was shocking to me. There is no room in the case for upgrading much and the power supply is limiting. I upgraded the video card and will probably upgrade the power supply. The BIOS is a mess on this motherboard. It is very difficult to turn off the on-board graphics in the BIOS. With a few upgrades to this already 700.00 machine it could be fantastic.,"No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-750-114-384814/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP ENVY 750-114 computer,desktop-computer,"A full-size desktop computer tested with Windows 10 Home, an Intel Core i5-6400 2.7GHz processor, 12GB of memory, a 2TB hard drive, Intel HD Graphics 530 graphics, a DVD burner, and no speakers.",nan,nan,True,nan,nan,nan,2.0,,down loading disk to computer,2015-12-13T01:16:09.787Z,2015-12-13,01:16:09.787,cromboaz,paducah ky,nan,paducah ky,USA,nan,nan,cant down load anything from disk,"No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-envy-750-114-384814/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP Pavilion Wave Desktop - 600-a020xt computer,desktop-computer,"A compact desktop computer tested with Windows 10 Home, an Intel Core i5-6400T 2.2GHz processor, 8GB of memory, a 1TB hard drive, AMD Radeon R9 M470/Intel HD Graphics 530 graphics, and 1-piece speakers.",1,1.0,True,"CONS
+1 Unreliable Performance","PROS
+No Pros","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,It crashes and the keyboard sucks.,2017-06-19T05:22:56.826Z,2017-06-19,05:22:56.826,Stephen,Perth Western Australia,nan,Perth Western Australia,USA,nan,nan,"If it crashes one more time I'm going to take it back to the shop it came from. The keyboard I've already taken back and been told it's been replaced, but still has the same problems.","No, I would not recommend to a friend",http://www.consumerreports.org/products/desktop-computer/hp-pavilion-wave-desktop-600-a020xt-387883/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
