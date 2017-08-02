@@ -1,0 +1,640 @@
+brand,model,prod_class,prod_short_descr,num_usr_reviews,rec_rvw_rating,has_reviews,survey_cons,survey_pros,ratings_distribution,user_rating,user_rating_txt,user_rvw_hdln,submit_dateTime,submit_date,submit_time,rvw_username,rvw_userLocation,rvw_userCity,rvw_userState,rvw_userCountry,verified_buyer,verified_reviewer,user_review_content,btm_line_txt,url,reported_exceptions
+Acer,Acer Aspire One Cloudbook AO1-131-C9PM computer,laptop,"An 11.6-inch laptop tested with Windows 10 Home, an Intel Celeron N3050 1.6GHz processor, 2GB of memory, Intel HD Graphics graphics, and a 32GB solid state drive.",1,2.0,True,"CONS
+1 Crashes/Freezes
+1 Poor Software Bundle
+1 Slow
+1 Unreliable Performance","PROS
+No Pros","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,"Not enough storage, Poor customer service",2016-07-08T16:08:05.535Z,2016-07-08,16:08:05.535,danny,"Atlanta,GA",Atlanta,GA,USA,nan,nan,"Things that are not so great about it not enough memory, memory card is not working properly.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/acer-aspire-one-cloudbook-ao1-131-c9pm-384806/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,I would defintely buy this product again,2017-05-17T18:11:30.681Z,2017-05-17,18:11:30.681,poutine,"New Hampshire,Usa",New Hampshire,nan,USA,nan,Verified Reviewer,The Macbook Air is very riliable and provides little to no learning curve.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Very Good Computer,2017-01-22T14:14:09.818Z,2017-01-22,14:14:09.818,D. Greene,"Brooklyn, NY",Brooklyn, NY,USA,nan,Verified Reviewer,"I have never owned a MAC. I bought the Macbook Air as a gift to myself. I read the reviews for the Macbook Air & Pro. After seeing them both in person, I liked the Pro but felt it was a little too heavy. I fell in love with the Air at first sight. I strictly use the Air to browse the web, check my e-mail, and to research information. I find it easy to use and I love the long battery life. Also it is very light in weight. With some assistance from my wife, it was easy to set up. So far I have no complaints or regrets.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,The best computer I have ever owned,2016-10-31T22:04:09.615Z,2016-10-31,22:04:09.615,Ziggy the musician,"Redondo Beach, CA",Redondo Beach, CA,USA,nan,Verified Reviewer,"This is a great little computer. The price of admission is a little higher (or a lot higher these days), but it's worth it, even without taking resale value into consideration (a traditional Mac strongpoint). I have owned a '07 iMac, still own a '09 MacPro (for work), but the '13 MacBookAir is the best all-round machine of them all. Don't worry about the low resolution of the display; it looks great. It feels plenty quick and snappy for generic everyday use, even after three years; none of the gradual slowing down that seems par for the course on cheaper Windows PC's. It's not powerful enough for heavy duty processing, that's what I have the MacPro for. But the MBA is the perfect desert-island computer. Assuming the island has power and internet, of course.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Excellent Computer. It always do the job. Fast,2016-07-10T18:52:18.471Z,2016-07-10,18:52:18.471,Computer Friendly Ivy,"San Juan, PR",San Juan, PR,USA,nan,Verified Reviewer,Every day use. Even if I have to stop something for a week then you can continue your work without disturbances. It is very easy and friendly. I can write as I am right now resting and even no efforts. I have a prior Mac Book 2008 and used it for 6 years. Bought this one due to its long performance and battery life. I dont have to struggle with uptdate and unwanted problems. I do not use it for gaming or video editing. If you want to do that consider a Mac Book Pro. I have a IMAC that usually do the tough job. Great computer.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",4.0,,I would be this product again if I had the extra money!,2016-03-25T15:38:17.957Z,2016-03-25,15:38:17.957,Derrick,"Pittburgh, Pa",Pittburgh, Pa,USA,nan,nan,"My two Brother-In-Laws work for Apple and are very computer savvy! They have helped me with my Apple computers and have given me a lot of advice about how to use them and what I can do with them. I would recommend these computers to anyone if they have the money to spend on them. They are very, very EXPENSIVE!","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 13-inch MJVE2LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",6,4.8,True,"CONS
+1 Poor Speaker Quality","PROS
+6 Easy To Use
+6 Good Battery Life
+6 Lightweight
+5 Fast
+5 Reliable Performance","5 Stars 5
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,MacBook Air 13 inch,2015-06-16T13:53:09.209Z,2015-06-16,13:53:09.209,Carolina Girl,South Carolina,,South Carolina,USA,nan,nan,Love it! Would recommend buying the extra customer support package as you will need the help with software if you are new to Apple like I was. They have the BEST Tech Support Staff I have ever felt with!,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,Annoyed with Apple products lately.,2016-11-30T08:10:14.299Z,2016-11-30,08:10:14.299,Scott,"Greensboro, NC",Greensboro, NC,USA,nan,nan,"As a father of 3 college kids, we have extensive (and expensive) experience with Apple products (4 laptops and 2 Macs). The last two MacBooks (one a MacBook Pro and the other a MacBook Air) were bought within the last 18 months and are both being used by college students. The screen on the Pro has developed a 1"" black vertical line and Apple said, ""screens just malfunction sometimes."" Cost to replace? $500. For the price you pay for their products, I'd like to think I'd get more than a few months out of them. The logic board on the Air is already acting up. Replacement cost? North of $400. Both were just out of the warranty period. I hoped my assumption that Apple was of higher quality would eliminate the need to spend even more on extended warranty. I was wrong. Totally fed up with Apple!","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,writeRvwMsg Step: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",4.0,,The best computer I have ever owned,2016-09-16T02:36:36.093Z,2016-09-16,02:36:36.093,Michelangelo,"Brooklyn, NY",Brooklyn, NY,USA,nan,nan,"By far, the best all-around computer I have ever owned. I would prefer if it were a few ounces lighter, the only possible improvement I can think of. I recommend it highly.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",4.0,,A nice upgrade from 7 yr old MBP,2016-08-09T17:26:59.756Z,2016-08-09,17:26:59.756,PenaciousH,Central New Jersey,,Central New Jersey,USA,nan,nan,"I use this for general home use occasionally (surfing web, hotel research, using CR) but mostly for work related report writing and access to web apps I need.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",4.0,,"Faster, great screen, well built",2016-07-01T11:43:09.390Z,2016-07-01,11:43:09.390,PenaciousH,"New Brunswick, NJ",New Brunswick, NJ,USA,nan,nan,"My last MBP was bought by me in mid-2009; I had NEVER gotten that much out of a Windows laptop. And Apple's service esp Genius Bar is invaluable. This is about 1/3 lighter than old MBP 13 and only 1/2 pound more than MBA. Brighter and better detailed screen is cool. Thunderbolt port takes mini DVI adapter which is good. I don't like the SSD size limits and how much more, given today's prices, Apple charges for 512 GB vs 256, when in reality it's 249 GB due to OS software. Transition from old MBP was very easy with the transfer software.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",4.0,,Solid state drive may not need to be as large,2016-06-25T05:56:40.865Z,2016-06-25,05:56:40.865,JimEl,"Van Etten, NY",Van Etten, NY,USA,nan,Verified Reviewer,"The best of many Mac laptops I've owned for personal use. It lives a hard travel life, doing presentations and maintaining web sites and other communications. Beyond the other reviews and CR ratings, it seems to me that the solid state drives do not need to be oversized the way electro-mechanical drives typically must be for optimal performance.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",5.0,,Outstanding,2015-11-29T11:04:33.471Z,2015-11-29,11:04:33.471,Sunny D,New York City,,New York City,USA,nan,Verified Reviewer,"Have been using a PC since 1983, so I have a lot of experience. I have Win 8.1 and Win 10. The MAC OS works 1000% better than Windows in my opinion. It is brilliantly laid out with all menus in the logical position. I never could figure out windoes, while I enjoy and trust the MAC. It's hard to give specifics but I have to say I find that Mac OS works much better than Windows. I am extremely glad that I got the MAC.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",5.0,,"MacBook Pro 13"" Retina 251GB Flash Storage",2015-09-06T14:40:42.831Z,2015-09-06,14:40:42.831,Ben's Dad,"Victoria, BC, Canada",Victoria, BC, Canada,nan,Verified Reviewer,"I use the MBPro for school and personal use. I'm teaching my son to code using it and we also use it to program small mini-computers (Arduino/Raspberry Pi2). To manage space on the device I purchased a 2TB portable storage device and use it for both data/file storage and backup, using TimeMachine. I disabled TimeMachine backup to the MBPro and that has significantly freed up storage capacity. I have a high-end Dell running windows, and it just doesn't compare in terms of reliability and ease of use to the Apple device.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch with Retina Display MF839LL/A computer,laptop,"A 13.3-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 2.7GHz processor, 8GB of memory, Intel Iris Graphics 6100 graphics, and a 128GB solid state drive.",8,4.1,True,"CONS
+2 Heavy
+1 Left Out Some Ports
+1 Quality Concerns
+1 Storage Fast Not Enough
+1 Unreliable Performance","PROS
+8 Durable Construction
+8 Fast
+7 Easy To Use
+7 Good Battery Life
+7 Reliable Performance","5 Stars 3
+4 Stars 4
+3 Stars 0
+2 Stars 1
+1 Star 0",5.0,,Impressive,2015-07-21T08:43:42.036Z,2015-07-21,08:43:42.036,Rick Joie de Vivre,Iowa,,Iowa,USA,nan,Verified Reviewer,"Application of latest technology (i.e.. flash drive, Force touch, battery) is a home run. Best value in laptops.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 15-inch with Retina Display MJLQ2LL/A computer,laptop,"A 15.4-inch laptop tested with OS X Yosemite 10.10, an Intel Core i7 2.2GHz processor, 16GB of memory, Intel Iris Pro graphics, and a 256GB solid state drive.",4,4.0,True,"CONS
+1 Crashes/Freezes
+1 Heavy
+1 Niche Product
+1 Poor Construction
+1 Pricey","PROS
+4 Easy To Use
+4 Good Battery Life
+3 Adequate Storage
+3 Durable Construction
+3 Fast","5 Stars 2
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star 0",4.0,,"Going on 2 years, works like new. Beautiful inside and out",2017-05-07T16:16:09.359Z,2017-05-07,16:16:09.359,Radiologist,"SLC, UT",SLC, UT,USA,nan,Verified Reviewer,"Replaced 8 yr old Macbook with this. I'm amazed it starts up AND shuts down within 5-10 seconds! And that hasn't changed at all after 2 years. Battery still at 93% original capacity after hundreds of cycles. Industry-leading Retina screen is almost too good. Can't give all 5 stars due to price. Buy refurbished through apple.com for better deal. Interestingly, the CPU fan still gets revved up when streaming video which was a chronic problem with my 8 year old Macbook as well. Note: combination of heavier build plus slick aluminum = drop hazard.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 15-inch with Retina Display MJLQ2LL/A computer,laptop,"A 15.4-inch laptop tested with OS X Yosemite 10.10, an Intel Core i7 2.2GHz processor, 16GB of memory, Intel Iris Pro graphics, and a 256GB solid state drive.",4,4.0,True,"CONS
+1 Crashes/Freezes
+1 Heavy
+1 Niche Product
+1 Poor Construction
+1 Pricey","PROS
+4 Easy To Use
+4 Good Battery Life
+3 Adequate Storage
+3 Durable Construction
+3 Fast","5 Stars 2
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star 0",5.0,,Upgraded from MacBook Air,2017-02-08T18:16:22.494Z,2017-02-08,18:16:22.494,Ottawa Consumer,"Ottawa, ON",Ottawa, ON,USA,nan,Verified Reviewer,"Upgraded from a MacBook Air which is still be used by another family member with no problems. Reasons to upgrade were: -More Storage 256 vs 128 Gb -Greatly Improved screen (IPS) -Larger Screen Integrates very well with other Apple products. When I signed into my iCloud account on my brand new computer, it downloaded almost everything I had on my MacBook Air including files on the Desktop. Instant on and off, unlike Windows. Apple sells a premium product and it is priced accordingly. I seriously considered buying a Windows machine but when I started looking for one with specs similar to the MacBook Pro 15"", the actual price difference was not that significant. You can buy a much less expensive machine but it will not have the SSD and fast processor etc. Excellent Hardware. I'm particularly impressed with the solidity of the chassis. I purchased a refurbished unit which was discounted 15%.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 15-inch with Retina Display MJLQ2LL/A computer,laptop,"A 15.4-inch laptop tested with OS X Yosemite 10.10, an Intel Core i7 2.2GHz processor, 16GB of memory, Intel Iris Pro graphics, and a 256GB solid state drive.",4,4.0,True,"CONS
+1 Crashes/Freezes
+1 Heavy
+1 Niche Product
+1 Poor Construction
+1 Pricey","PROS
+4 Easy To Use
+4 Good Battery Life
+3 Adequate Storage
+3 Durable Construction
+3 Fast","5 Stars 2
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,Apple had to replace mine,2016-08-27T07:21:56.611Z,2016-08-27,07:21:56.611,Jake,Earth,,Earth,USA,nan,nan,"Our first MacBook Pro kept breaking. The thing looked immaculate on the outside, but could not keep running for more than 1-2 months between service repairs. Thank god for the extended Warranty. Parts were replaced regularly because the tech could not figure out the problem. After the 7th repair, replacing cables, motherboard, hard drive, RAM, etc, I finally called Apple and they gave us a new one. I give 2 stars because they replaced it and the second Pro is still working without fail. My confidence is still low.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 15-inch with Retina Display MJLQ2LL/A computer,laptop,"A 15.4-inch laptop tested with OS X Yosemite 10.10, an Intel Core i7 2.2GHz processor, 16GB of memory, Intel Iris Pro graphics, and a 256GB solid state drive.",4,4.0,True,"CONS
+1 Crashes/Freezes
+1 Heavy
+1 Niche Product
+1 Poor Construction
+1 Pricey","PROS
+4 Easy To Use
+4 Good Battery Life
+3 Adequate Storage
+3 Durable Construction
+3 Fast","5 Stars 2
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star 0",5.0,,Would Buy Again,2016-07-15T12:28:43.262Z,2016-07-15,12:28:43.262,KUJO,Miami,,Miami,USA,nan,Verified Reviewer,Had to replace my 2004 Mac Pro - with a Mac Pro...would do it again.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Asus,Asus ZenBook Flip UX360CA computer,laptop,"A 13.3-inch convertible laptop tested with Windows 10 Home, an Intel Core m3-6Y30 0.9GHz processor, 8GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 512GB solid state drive.",3,3.0,True,"CONS
+2 Heavy
+1 Keyboard Lacks Backlight
+1 Not As Fast As Expected
+1 Poor Battery Life
+1 Slow","PROS
+3 Durable Construction
+2 Adequate Storage
+2 Fast
+1 Good Battery Life
+1 Heavier Than Expected","5 Stars 1
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star
+1",1.0,,Steer clear!,2017-03-19T18:26:50.086Z,2017-03-19,18:26:50.086,Brooklyn Bob,"Marblehead, MA",Marblehead, MA,USA,nan,nan,"This is the first review I've written for CR after 40 years as a subscriber, so obviously I'm upset. I bought this in January after reading CR's take. Maybe mine is just a lemon. Amazon wouldn't take it back, making this the last time I'll buy a computer from them (bought 3 others in the past). Apparently Best Buy will service what you buy for a year. In any event, the touch pad is maddening, the keys often don't work, and in some ways it is actually slower than my 6 year old software glutted Acer 1430z with Windows 7 (which was half the price). Also Windows 10 is not as intuitive as 7 and doesn't seem to work as well with my Home Group. As a PC user since 1988 I was reluctant to go to a Mac. I guess I was wrong.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/asus-zenbook-flip-ux360ca-387106/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Asus,Asus ZenBook Flip UX360CA computer,laptop,"A 13.3-inch convertible laptop tested with Windows 10 Home, an Intel Core m3-6Y30 0.9GHz processor, 8GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 512GB solid state drive.",3,3.0,True,"CONS
+2 Heavy
+1 Keyboard Lacks Backlight
+1 Not As Fast As Expected
+1 Poor Battery Life
+1 Slow","PROS
+3 Durable Construction
+2 Adequate Storage
+2 Fast
+1 Good Battery Life
+1 Heavier Than Expected","5 Stars 1
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star
+1",5.0,,Tremendous Value!,2017-01-15T19:18:45.213Z,2017-01-15,19:18:45.213,Steve,"Portland, OR",Portland, OR,USA,nan,Verified Reviewer,"This is the best value in a lightweight travel pc. It is beautiful, solid, fast and quiet. Works flawlessly - and looks and feels like a $1200 computer. It's a no-brainer. Just a fantastic value. Plus a very long battery life. And it weighs less that 3 lbs. It's a wonderful computer. The only option it lacks is a backlit keyboard. That doesn't affect my use at all . . . but if you like to work in the dark, you might want that feature.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/asus-zenbook-flip-ux360ca-387106/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Asus,Asus ZenBook Flip UX360CA computer,laptop,"A 13.3-inch convertible laptop tested with Windows 10 Home, an Intel Core m3-6Y30 0.9GHz processor, 8GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 512GB solid state drive.",3,3.0,True,"CONS
+2 Heavy
+1 Keyboard Lacks Backlight
+1 Not As Fast As Expected
+1 Poor Battery Life
+1 Slow","PROS
+3 Durable Construction
+2 Adequate Storage
+2 Fast
+1 Good Battery Life
+1 Heavier Than Expected","5 Stars 1
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star
+1",3.0,,Not Worthy of CR's rating,2017-01-08T18:08:45.452Z,2017-01-08,18:08:45.452,Bob from Brooklyn,"Boston, MA",Boston, MA,USA,nan,nan,"Although I've used PCs since 1987, at this point I feel I should've gone to a Mac in spite of the learning curve. Not only did I find Windows 10 frustrating and counter-intuitive, but the laptop is heavier than expected, has an exasperating touch pad and is very slippery to hold. This computer created so many problems during set up that the time wasted may have made up for the time needed to transition to a Mac. In addition I find this just a bit faster than my 6 year old Dell with an I-5.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/asus-zenbook-flip-ux360ca-387106/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Asus,Asus ZenBook Pro UX501VW-DS71T computer,laptop,"A 15.6-inch laptop tested with Windows 10 Home, an Intel Core i7-6700HQ 2.6GHz processor, 16GB of memory, Nvidia GeForce GTX 960M/Intel HD Graphics 530 graphics, a touchscreen, and a 512GB solid state drive.",1,5.0,True,"CONS
+1 Heavy","PROS
+1 Adequate Storage
+1 Durable Construction
+1 Easy To Use
+1 Fast
+1 Good Battery Life","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Excellent!,2017-01-29T20:15:44.919Z,2017-01-29,20:15:44.919,Gerritt,"Joplin, MO",Joplin, MO,USA,nan,Verified Reviewer,"This is an excellent computer especially for the price, this is a great deal for anybody in the market of buying a high end computer. I use it mainly for photo editing and uploading photos to the web. I have had no issues at all. It is quick and the photos look very sharp on its display. Apple computers are rated higher and I've had Apple computers before but this computer is MUCH better. I am certain this computer could handle just about anything and I am very satisfied with my purchase.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/asus-zenbook-pro-ux501vw-ds71t-386108/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Dell,Dell Inspiron I7579-0028GRY computer,laptop,"A 15.6-inch convertible laptop tested with Windows 10 Home, an Intel Core i5-7200U 2.5GHz processor, 8GB of memory, Intel HD Graphics 620 graphics, a touchscreen, and a 256GB solid state drive.",1,5.0,True,"CONS
+No Cons","PROS
+1 Adequate Storage
+1 Durable Construction
+1 Easy To Use
+1 Fast
+1 Good Battery Life","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Wonderful Laptop. Love it.,2017-02-14T18:45:44.496Z,2017-02-14,18:45:44.496,"Zerick,",San Diego Ca,,San Diego Ca,USA,nan,Verified Reviewer,"I had been looking for the right laptop. This is by far better than I could imagine. It has all the features that you could ask for. It is super fast, love the back lighted key board. The touch screen makes it really easy to use the screen. Then the tablet mode. OMG. It is so easy to use and work with. I find that my work presentations look much better. Dell hit a home run with this Laptop. I am pleased with this big time. For my type of work this is by far the best thing that I could use. Taking notes in class is now the best part of going to school at night. LOVE IT!","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/dell-inspiron-i7579-0028gry-388094/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP Pavilion M1-U001DX computer,laptop,"An 11.6-inch convertible laptop tested with Windows 10 Home, an Intel Pentium N3710 1.6GHz processor, 4GB of memory, Intel HD Graphics graphics, a touchscreen, and a 500GB hard drive.",1,3.0,True,"CONS
+1 Slow","PROS
+1 Easy To Use","5 Stars 0
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star 0",3.0,,Good Basic Computer,2016-08-28T22:07:37.082Z,2016-08-28,22:07:37.082,Todd,Montana,,Montana,USA,nan,nan,"This is a good budget-conscious entry level computer I bought for my child. The touch screen and tablet feature is a great transition always with the dedicated keyboard available. I have to admit, it's odd folding the keyboard 360 degrees backwards for tablet setup and placing the computer down in essence on top of the keys. It turns off so you won't type, but I could see you getting things into the keys if you're not careful. I like the ""tent"" setup where you fold the keyboard back so it looks like a tent. It goes into tablet mode but lets you watch video without having to hold it like traditional tablets. It is a bit slow with the Pentium processor and the physical platen hard drive (not solid state) but all of this is why it's a a very reasonable price. It's still 500 MB of hard drive. Things to consider on these new 2-in-1 machines 1. Most have gotten rid of the CD/DVD drive, this is the case here. I don't miss it 2. Many don't have card readers, this one does which I really like 3. Most have gone down to 1 USB port. This has 3, 1x USB 2.0 and 2x USB 3.0. This was a big reason I liked this computer 4. Most have relatively inaccessible batteries which is the case here 5. Most have limited external monitor ports. Most have only 1 and it's usually HDMI. The most recent are mini-HDMI which means all new cables. This has a standard HDMI which was a big reason I bought this one. Diplay Port (Dell) and mini-Display Port (Apple) are the others.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/hp-pavilion-m1-u001dx-386340/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP Pavilion x360 m3-u103dx computer,laptop,"A 13.3-inch convertible laptop tested with Windows 10 Home, an Intel Core i5-7200U 2.5GHz processor, 8GB of memory, Intel HD Graphics 620 graphics, a touchscreen, and a 128GB hard drive.",1,4.0,True,"CONS
+1 Heavy","PROS
+1 Easy To Hold
+1 Easy To Use
+1 Fast
+1 Good Battery Life
+1 Lightweight","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",4.0,,this the laptop that i really need it,2017-02-06T12:13:50.215Z,2017-02-06,12:13:50.215,Elie The King,"Antelias, Mezher,Lebanon",Antelias, Mezher,Lebanon,nan,nan,"The Product is used by a simply way This Laptop is smallmand we can bring it with us evrywhere and can use it whenever we need it , his software is fast and can make me happy to finish my business work The things that aren't great about it is that is not a good for a movie player or any videos or games.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/hp-pavilion-x360-m3-u103dx-388096/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+HP,HP Stream 11-y010nr computer,laptop,"An 11.6-inch laptop tested with Windows 10 Home, an Intel Celeron N3060 1.6GHz processor, 4GB of memory, Intel HD Graphics graphics, and a 32GB solid state drive.",1,3.0,True,"CONS
+1 Slow","PROS
+1 Adequate Storage
+1 Easy To Use
+1 Good Battery Life
+1 Lightweight","5 Stars 0
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star 0",3.0,,Better than expected but not as strong as it should be,2017-06-21T16:05:03.414Z,2017-06-21,16:05:03.414,John Adams,"El Paso, Tx.",El Paso, Tx.,USA,nan,Verified Reviewer,"I am at the same time happy and realistic. I bought my Stream refurbished to replace an old netbook I had been keeping on life support for years. While my HP Stream is very quick to respond in most areas of my daily regime, it is not a strong multi-tasker. I do consider it a worthy chrome book challenger but feel like it is not the equivalent of my old Acer ""eee pc"" netbook. I do intend to tweak settings and remove HP bloatware and ""make a go of it"" nonetheless.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/hp-stream-11-y010nr-387459/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Lenovo,Lenovo ThinkPad X1 Yoga computer,laptop,"A 14-inch convertible laptop tested with Windows 10 Pro, an Intel Core i7-6500U 2.5GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 256GB solid state drive.",2,3.0,True,"CONS
+1 Crashes/Freezes
+1 Unreliable Performance","PROS
+2 Adequate Storage
+2 Durable Construction
+2 Fast
+2 Good Battery Life
+2 Lightweight","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,Great Product. Until it burned to a crisp!,2017-04-13T10:46:20.807Z,2017-04-13,10:46:20.807,Dan,"Albany, OR",Albany, OR,USA,nan,nan,"After 1 year and only 300 hours of use, the unit randomly overheated, and fried itself to a crisp. It is 1 month outside of warranty, and now it is more expense to repair than replace. I will never buy a Lenovo again.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-yoga-385732/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Lenovo,Lenovo ThinkPad X1 Yoga computer,laptop,"A 14-inch convertible laptop tested with Windows 10 Pro, an Intel Core i7-6500U 2.5GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 256GB solid state drive.",2,3.0,True,"CONS
+1 Crashes/Freezes
+1 Unreliable Performance","PROS
+2 Adequate Storage
+2 Durable Construction
+2 Fast
+2 Good Battery Life
+2 Lightweight","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",5.0,,Excellent for professional school,2016-07-18T19:40:44.770Z,2016-07-18,19:40:44.770,vetstudent,VA,,VA,USA,nan,Verified Reviewer,"Very fast, light, great screen. The digital pen is the #1 reason that I bought this computer. It works great when I need to take notes for school in Powerpoint or OneNote. Definitely recommend for college/graduate students.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-yoga-385732/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Lenovo,Lenovo Y700-15ACZ computer,laptop,"A 15.6-inch laptop tested with Windows 10 Home, an AMD FX-8800P 2.1GHz processor, 16GB of memory, AMD Radeon R9 M385X/AMD Radeon R7 graphics, and a 1TB hard drive.",1,2.0,True,"CONS
+No Cons","PROS
+1 Adequate Storage
+1 Durable Construction
+1 Good Battery Life
+1 Large Screen
+1 Lightweight","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,very poor keyboard,2016-07-25T10:42:12.824Z,2016-07-25,10:42:12.824,from Toronto,"Toronto, Canada",Toronto, Canada,USA,nan,Verified Reviewer,"The laptop has excellent specs, and the laptop matches those specs. However, the keyboard is so poor, that it is practically unusable: has flimsy keys, non-conventional layout of enter & shift key, and horrible registry settings for keyboard. I have spent countless hours trying to get it right, but it is still not right (I have been programming for > 25 years now). Never typed on a keyboard this lousy. As a summary, imagine a porsche with a sticky steering wheel; it feels like that to me. I cant use it and cant throw it away. I have often carried my 10-keyless keyboard in my backpack to use as a keyboard. Just ridiculous. And... poor memory speed if somebody wants to use for multimedia applications.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/lenovo-y700-15acz-386281/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Book computer,laptop,"A 13.5-inch detachable laptop tested with Windows 10 Home, an Intel Core i5-6300U 2.4GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 128GB solid state drive.",4,2.0,True,"CONS
+4 Crashes/Freezes
+3 Unreliable Performance
+2 Poor Battery Life
+1 Heavy
+1 No Hdmi Port","PROS
+2 Large Screen
+1 Adequate Storage
+1 Amazing screen clarity
+1 Display
+1 Durable Construction","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star
+2",2.0,,"Such promise, poor delivery",2017-07-12T19:21:11.006Z,2017-07-12,19:21:11.006,User A,Seattle,,Seattle,USA,nan,Verified Reviewer,I ended up having to move on to a more reliable lap top after continual issues for 18mths. I miss the screen clarity- its like going back to SD after having HD- but I love that when I have an online meeting I know that I won't have to apologize for delays due random restarts/screen failures/keyboard glitches. The speakers are not effective enough for online meetings and I had to use bluetooth. Win 10 made this impossible to manage- each time I had to go deep into settings and reconnect as there is no short cut. Several times I would need to reset speakers completely in order to change speakers. This was an OS issue however if the speakers were effective I wouldn't have had to use other options. Screen went all the way to the edge- I realize now that added to the screen clarity and I miss that. I have Windows 10 on my new laptop and don't have the same problems- Surface Book was always requiring updates and critical error repairs and so far I have not had any of the Win 10 issues that I had continually on the Book. Win Hello works reliably on my new lap top: it did not on Book and the camera would frequently stop working. It also ran out of memory all the time- I was unable to save anything to the pc and carried a portable external hard drive to save everything to. Critical updates took up every bit of memory and could not be deleted. I miss the clarity but the glitches were impossible to work through.,"No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Book computer,laptop,"A 13.5-inch detachable laptop tested with Windows 10 Home, an Intel Core i5-6300U 2.4GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 128GB solid state drive.",4,2.0,True,"CONS
+4 Crashes/Freezes
+3 Unreliable Performance
+2 Poor Battery Life
+1 Heavy
+1 No Hdmi Port","PROS
+2 Large Screen
+1 Adequate Storage
+1 Amazing screen clarity
+1 Display
+1 Durable Construction","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star
+2",4.0,,Solid performer,2016-09-23T05:48:12.972Z,2016-09-23,05:48:12.972,Doug,"Winter Park, FL",Winter Park, FL,USA,nan,Verified Reviewer,"I was curious about the Surface and took a chance when my new employer needed a beta tester. As far as laptops go, it's a solid performer. I love that it's a true hybrid of a notebook and laptop. Yes, occasionally it will freeze when reactivating from a lid close, but it's only been twice in five months for me. Every laptop I've had in 15 years has had an occasional glitch--even my last one, which was a Mac. Going from Mac to the Surface was easier than I thought. The track pad gestures are similar, but Apple still holds the edge. However, the Surface's touchscreen display is a huge bonus. I use that more than I thought I would. Plus, the processing power of this machine is far superior to the Mac laptop I had. Finally, this is the only laptop I ever had where I *never* worry about finding an outlet by early-afternoon. It can literally go all day on a single charge with moderate to heavy use. Features I really love about it: large screen size, nice keyboard, touchscreen, lightweight, amazingly long battery life and I can truly work with it on my lap without the keyboard getting hot. I also appreciate that the power cord also has a USB slot to charge my cellphone at the same time. The only features I really wish it had -- native HDMI port. You have to buy an HDMI accessory.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Book computer,laptop,"A 13.5-inch detachable laptop tested with Windows 10 Home, an Intel Core i5-6300U 2.4GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 128GB solid state drive.",4,2.0,True,"CONS
+4 Crashes/Freezes
+3 Unreliable Performance
+2 Poor Battery Life
+1 Heavy
+1 No Hdmi Port","PROS
+2 Large Screen
+1 Adequate Storage
+1 Amazing screen clarity
+1 Display
+1 Durable Construction","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star
+2",1.0,,"20% Fun Times, 80% Frustrating Unreliability",2016-03-19T12:30:01.551Z,2016-03-19,12:30:01.551,Ben the Coder,"Atlanta, GA",Atlanta, GA,USA,nan,Verified Reviewer,"I'm a programmer with excellent Windows and Linux IT admin experience. When this machine works, it's great: fun to use, good looking, crisp display. Unfortunately, I have spent countless hours dealing with crashes, hardware hickups, updates, unexpected reboots, display quality problems, complete re-installs, and more. Issues: - Bad display scaling when using a second monitor. - Bottom keyboard / touchpad randomly stop working. - Start menu randomly produces critical error. - Chrome crashes constantly. - Windows Hello randomly doesn't work. - BSOD - Battery: actually get 6-7 hours, when promised 12 hours. - list goes on","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Book computer,laptop,"A 13.5-inch detachable laptop tested with Windows 10 Home, an Intel Core i5-6300U 2.4GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 128GB solid state drive.",4,2.0,True,"CONS
+4 Crashes/Freezes
+3 Unreliable Performance
+2 Poor Battery Life
+1 Heavy
+1 No Hdmi Port","PROS
+2 Large Screen
+1 Adequate Storage
+1 Amazing screen clarity
+1 Display
+1 Durable Construction","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 1
+1 Star
+2",1.0,,The worst notebook ever,2016-03-08T01:59:33.948Z,2016-03-08,01:59:33.948,Ahmed,New York,,New York,USA,nan,Verified Reviewer,"use it for online banking, and microsoft office for communication,and browsing the net.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Pro 4 computer,laptop,"A 12.3-inch detachable laptop tested with Windows 10 Pro, an Intel Core m3-6Y30 0.9GHz processor, 4GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 128GB solid state drive.",3,3.0,True,"CONS
+1 Crashes/Freezes","PROS
+2 Durable Construction
+2 Easy To Use
+2 Fast
+2 Lightweight
+2 Reliable Performance","5 Stars 0
+4 Stars 2
+3 Stars 0
+2 Stars 0
+1 Star
+1",4.0,,Surface Pro 4,2017-05-20T18:24:36.549Z,2017-05-20,18:24:36.549,anonymous,Colorado,,Colorado,USA,nan,Verified Reviewer,"I have the middle of the road model with 256 on the hard drive, i5 chip and 8GB RAM. I bought the keyboard also. This computer works well as a desktop. It runs all of the office, acrobat and other stuff I have on it with many programs open. It has never failed. I use it for a law litigation practice. I have it connected to a wide screen curved monitor via display port, a surface docking brick and a logitech k810 keyboard and mouse for office use. Disconnecting is a snap to drop the Surface Pro 4 into a small brief case with a portable mouse and I am mobile in seconds. In court, it fires up in seconds and is ready to go. I have bought two more of these for school aged kids and use theirs all the time. I recommend this system. The only con is no cellular capability.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-pro-4-384902/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Pro 4 computer,laptop,"A 12.3-inch detachable laptop tested with Windows 10 Pro, an Intel Core m3-6Y30 0.9GHz processor, 4GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 128GB solid state drive.",3,3.0,True,"CONS
+1 Crashes/Freezes","PROS
+2 Durable Construction
+2 Easy To Use
+2 Fast
+2 Lightweight
+2 Reliable Performance","5 Stars 0
+4 Stars 2
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,No Refunds! Surface Pro 4 Still Crashing (On 2nd One)!,2017-01-18T11:23:43.039Z,2017-01-18,11:23:43.039,Black Knight,"Williamsport, PA",Williamsport, PA,USA,nan,nan,I am currently on my second Surface 4 and have spent around 100 hours trying to fix and restore this computer. Microsoft will not refund. They only replace with another computer that doesn't work! What do I do? This is my work computer! How do I take action?,"No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-pro-4-384902/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Microsoft,Microsoft Surface Pro 4 computer,laptop,"A 12.3-inch detachable laptop tested with Windows 10 Pro, an Intel Core m3-6Y30 0.9GHz processor, 4GB of memory, Intel HD Graphics 515 graphics, a touchscreen, and a 128GB solid state drive.",3,3.0,True,"CONS
+1 Crashes/Freezes","PROS
+2 Durable Construction
+2 Easy To Use
+2 Fast
+2 Lightweight
+2 Reliable Performance","5 Stars 0
+4 Stars 2
+3 Stars 0
+2 Stars 0
+1 Star
+1",4.0,,The versatility of this convertible has won me over,2016-10-27T08:05:33.067Z,2016-10-27,08:05:33.067,Short but Sweet,San Francisco,,San Francisco,USA,nan,Verified Reviewer,"I purchased this computer as a portable adjunct to my desktop computer. It is so much more convenient, and faster, than my desktop that it has unexpectedly become my primary computer. While I wish that the batter life were longer, for my purposes it is good enough. (I have the most battery-intensive, and fastest processor currently available on the SP4, an i7.) Most of the time, I can use it plugged in anyway. And the power management seems pretty sophisticated and configurable. I am particularly astounded by the speed with which it operates, thanks in large part to the dependable solid state drive. Also, the USB ports make the occasional use of my small and light external drive a snap. Contrary to the Consumer Reports review, this computer DOES have facial recognition, which is a pleasant alternative to logging in with a password. Whether I am in an airplane, traveling, using the SP4 at a hotel or at home, I am continually delighted by it. After almost one year of use, it still meets all of my needs with ease and grace. Looks great too.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/microsoft-surface-pro-4-384902/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Samsung,Samsung Notebook 9 NP900X3L-K06US computer,laptop,"A 13.3-inch laptop tested with Windows 10 Home, an Intel Core i5-6200U 2.3GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, and a 256GB solid state drive.",1,1.0,True,"CONS
+1 Fragile
+1 Poor Construction","PROS
+No Pros","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,This computer is NOT backed by Samsung!!,2017-04-13T22:31:23.244Z,2017-04-13,22:31:23.244,Shonna,"Pasadena, CA",Pasadena, CA,USA,nan,nan,"This is very lightweight, also why I purchased. It stopped working, gave me an error message. I sent it back for repair and they voided the warranty because of two tiny dents in the bottom of the computer. Like TINY. I'm so angry, I'll never buy from them again. Read the forums, this is how they steal money from all of us, no rebates, voided warranties, horrible.","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x3l-k06us-385908/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Samsung,Samsung Notebook 9 NP900X5L-K02US computer,laptop,"A 15-inch laptop tested with Windows 10 Home, an Intel Core i7-6500U 2.5GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, and a 256GB solid state drive.",2,2.5,True,"CONS
+1 Crashes/Freezes
+1 Unreliable Performance","PROS
+2 Lightweight
+1 Adequate Storage
+1 Durable Construction
+1 Easy To Use
+1 Fast","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star
+1",4.0,,Precisely as described in the CR review,2016-11-11T18:28:12.542Z,2016-11-11,18:28:12.542,Woody Acres,"Albemarle Co., VA",Albemarle Co., VA,USA,nan,nan,This machine is feather light and has no noticeable bugs or defects. We have a desperately slow DSL line yet video streaming is much better than the ASUS laptop that I used previously. So far I have not missed having a built-in DVD/CD drive. The disk drawers on my four previous laptops always seemed to pop open if looked at cross eyed.,"Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x5l-k02us-385909/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Samsung,Samsung Notebook 9 NP900X5L-K02US computer,laptop,"A 15-inch laptop tested with Windows 10 Home, an Intel Core i7-6500U 2.5GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, and a 256GB solid state drive.",2,2.5,True,"CONS
+1 Crashes/Freezes
+1 Unreliable Performance","PROS
+2 Lightweight
+1 Adequate Storage
+1 Durable Construction
+1 Easy To Use
+1 Fast","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star
+1",1.0,,Needs serious attention,2016-08-06T07:48:58.788Z,2016-08-06,07:48:58.788,Disappointed,New Hampshire,,New Hampshire,USA,nan,nan,Less than two weeks seeking Tech Support. Will not boot up on battery side of operation. Techs are week in speaking English fluently. E-Commerce Department is uninterested in Customers ( Third Party Outsourcing). GOOD Luck... This purchased has turned into a disaster. Samsung will not allow an adverse of their products.,"No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x5l-k02us-385909/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Samsung,Samsung Notebook 9 pro NP940Z5L-X01US computer,laptop,"A 15.6-inch laptop tested with Windows 10 Home, an Intel Core i7-6700HQ 2.6GHz processor, 8GB of memory, Nvidia GeForce GTX 950M/Intel HD Graphics 530 graphics, a touchscreen, and a 256GB solid state drive.",2,5.0,True,"CONS
+1 Poor Battery Life","PROS
+2 Adequate Storage
+2 Durable Construction
+2 Easy To Use
+2 Fast
+2 Large Screen","5 Stars 2
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Fantastic Laptop!!,2017-03-30T15:19:39.682Z,2017-03-30,15:19:39.682,RonBoy,"Roanoke, VA",Roanoke, VA,USA,nan,nan,"This is a Fantastic laptop for the money. The speed and graphics of this computer is amazing as well as the 4K touch screen. The keyboard is well lit and the touch keys make typing a snap. The laptop stays relatively cool and the fan, when it runs,(which is hardly ever) is very quiet! The only thing it lacks is a Ethernet connection that plugs directly into the laptop. If you want to use a Ethernet connection, you have to buy a (Ethernet to USB plug) separately. Also it has no DVD/CD drive built-in, you have to buy a external DVD/CD drive separately as well. Other than those 2 things, this is a beautiful laptop with lots of features and a lot less in price than most laptops with a i7 processor!","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/samsung-notebook-9-pro-np940z5l-x01us-385107/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Samsung,Samsung Notebook 9 pro NP940Z5L-X01US computer,laptop,"A 15.6-inch laptop tested with Windows 10 Home, an Intel Core i7-6700HQ 2.6GHz processor, 8GB of memory, Nvidia GeForce GTX 950M/Intel HD Graphics 530 graphics, a touchscreen, and a 256GB solid state drive.",2,5.0,True,"CONS
+1 Poor Battery Life","PROS
+2 Adequate Storage
+2 Durable Construction
+2 Easy To Use
+2 Fast
+2 Large Screen","5 Stars 2
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Excellent Laptop,2016-04-12T00:14:53.403Z,2016-04-12,00:14:53.403,DTD 83,"Morganton, NC",Morganton, NC,USA,nan,Verified Reviewer,"I'm very happy with my Samsung Notebook 9 pro laptop. It's lightning fast and has a beautiful screen. The keyboard is easy to use and has a backlight. The laptop overall is solid with strong hinges and has a premium look and feel to it. The only negative I can think of has to do with it having 4K screen resolution. The problem is that some apps and programs aren't yet compatible with such high dense resolution screens and therefore the buttons and icons appear very tiny and are hard to read and use. I assume as these types of screens become more common, programmers will design and update apps with this in mind. Otherwise, super satisfied with my purchase!","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/samsung-notebook-9-pro-np940z5l-x01us-385107/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Acer,Acer Aspire R5-571T-59DC computer,laptop,"A 15.6-inch convertible laptop tested with Windows 10 Home, an Intel Core i5-6200U 2.3GHz processor, 8GB of memory, Intel HD Graphics 520 graphics, a touchscreen, and a 1TB hard drive.",1,2.0,True,"CONS
+1 Bloatware
+1 Chrome Doesn't Work
+1 Crashes/Freezes
+1 Heavy
+1 Slow","PROS
+No Pros","5 Stars 0
+4 Stars 0
+3 Stars 0
+2 Stars 1
+1 Star 0",2.0,,"Beautiful looking laptop, performance is anything but!",2016-08-12T12:48:46.241Z,2016-08-12,12:48:46.241,Gregfmtc,"Roanoke, TX",Roanoke, TX,USA,nan,nan,"Very excited taking the laptop/tablet out however first power up which took over five minutes (before updates were loaded which was another 30 minutes) indicated what ""Bloatware"" means. Startup was agonizingly slow due to Acer's unnecessary startup programs and apps added to it. Impressed by the 2 in 1 features and the display is very sharp, tablet mode is a little sloppy but workable. Apps I commonly use were not available via Windows 10 app store so I loaded Chrome to get Amazon Music and some other apps. Chrome initially loaded, but after trying to make it default browser it wouldn't load anymore in tablet or desktop mode? Not sure if this is a Windows 10 thing or what? I bought Office 360 and when trying to load the laptop was hung up and it never loaded. I have very good high speed access and never had issues with existing work laptop or my old iPad? Lastly, when the sleep mode would kick in it wouldn't respond when you tried to wake it up, even to the point of trying to power it down/up? This gorgeous 2 in 1 became way too frustrating to use, despite the great deal at Best Buy this unit is going back on their shelf...","No, I would not recommend to a friend",http://www.consumerreports.org/products/laptop/acer-aspire-r5-571t-59dc-386554/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 11-inch MJVM2LL/A computer,laptop,"An 11.6-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",3,4.3,True,"CONS
+1 Logic Board Malfunction
+1 Poor Battery Life
+1 Poor Software Bundle
+1 Poor Speaker Quality
+1 Should Come In More Color","PROS
+3 Fast
+2 Easy To Use
+2 Good Battery Life
+2 Lightweight
+1 Adequate Storage","5 Stars 2
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star 0",3.0,,2 years of wonderful use disrupted by sudden issue,2016-10-22T07:06:49.173Z,2016-10-22,07:06:49.173,Sad college student,"Provo, UT",Provo, UT,USA,nan,Verified Reviewer,"I've used this computer for the last 2 years as a college student. I used the computer to mainly write documents, prepare presentations and use the internet. It has worked fantastically well. I loved the instantaneous start-up time, the good battery life and the general reliability. I've never had any bugs or weird problems. That's why it's so weird that it suddenly died today. I wrote an assignment last night, emailed it to my professor and went to bed. Then, when I wanted to check the weather today, I opened it up and tried to turn it on. No response. I pressed the power button again and again. No response. I plugged it in and let it charge for a few minutes. Still no effect. I looked online via someone else's computer and it looks like a ton of people have run into this problem as well. I tried a number of different ""magic"" button-pressing combinations people attest to online to no avail. I went to the Apple store a few hours ago and the guy there said it's probably due to a logic board failure. That was interesting since many of the people online discussing the same symptoms also noted issues with the logic board. The apple guy was really helpful, at least as much as he could be considering the situation. Replacing the logic board would cost more than half of the original price of the computer, so it looks most reasonable to just get a new computer. But this sucks!!! I would rather have a computer that's a little buggy every once in a while but lasts 4-5 years than one that runs great for just a couple years and then suddenly gives up the technological ghost. The apple guy said he had seen the exact same symptoms before with a malfunctioning logic board and told me I probably did nothing wrong for this to happen, it was just bad luck. It's useful that Consumer Reports provides data on brand reliability. I noticed that while Apple is relatively the best, there is still a frequency of 17% for problematic hardware. I guess I'm just a lucky guy. Would I recommend it? Yes, but I wish you better luck than I had.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-11-inch-mjvm2ll-a-374085/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 11-inch MJVM2LL/A computer,laptop,"An 11.6-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",3,4.3,True,"CONS
+1 Logic Board Malfunction
+1 Poor Battery Life
+1 Poor Software Bundle
+1 Poor Speaker Quality
+1 Should Come In More Color","PROS
+3 Fast
+2 Easy To Use
+2 Good Battery Life
+2 Lightweight
+1 Adequate Storage","5 Stars 2
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star 0",5.0,,I would buy this product again and again,2016-06-04T18:34:24.206Z,2016-06-04,18:34:24.206,Tea/Toodie,"Las Vegas, NV",Las Vegas, NV,USA,nan,nan,"As with the Apple name, everything went as well as it was supposed to go.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-11-inch-mjvm2ll-a-374085/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Air 11-inch MJVM2LL/A computer,laptop,"An 11.6-inch laptop tested with OS X Yosemite 10.10, an Intel Core i5 1.6GHz processor, 4GB of memory, Intel HD Graphics 6000 graphics, and a 128GB solid state drive.",3,4.3,True,"CONS
+1 Logic Board Malfunction
+1 Poor Battery Life
+1 Poor Software Bundle
+1 Poor Speaker Quality
+1 Should Come In More Color","PROS
+3 Fast
+2 Easy To Use
+2 Good Battery Life
+2 Lightweight
+1 Adequate Storage","5 Stars 2
+4 Stars 0
+3 Stars 1
+2 Stars 0
+1 Star 0",5.0,,Love it,2016-01-29T07:44:10.751Z,2016-01-29,07:44:10.751,Linsey,"Madison, Wisconsin",Madison, Wisconsin,USA,nan,nan,"I love my Macbook air! I travel quite often for my job, and it is great to take on plane rides and into hotels due to its small size. It runs very fast most of the time, and has been dropped more than ten times, yet it stays intact.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-air-11-inch-mjvm2ll-a-374085/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 13-inch MLH12LL/A computer,laptop,"A 13.3-inch laptop tested with macOS Sierra 10.12, an Intel Core i5 2.9GHz processor, 8GB of memory, Intel Iris Graphics 550 graphics, and a 256GB solid state drive.",1,5.0,True,"CONS
+1 Getting Used To Keyboard","PROS
+1 Battery Life
+1 Display
+1 Fast Performance
+1 Portability
+1 Touch Bar","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Great Laptop,2016-12-29T16:02:26.177Z,2016-12-29,16:02:26.177,Zeke,"Napa, CA",Napa, CA,USA,nan,Verified Reviewer,"I mostly use the computer for business, for writing and photos. The display is amazing, especially for photos and graphics. The body is very thin and light, but solid. The processor is fast. It took a little while to get used to the flatter keys in the keyboard, but after a couple of days, there are no problems. I haven't mastered the touch bar, but I have used the Touch ID for Apple Pay. I am getting excellent battery life, unlike CR testers.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-mlh12ll-a-388053/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Apple,Apple MacBook Pro 15-inch MLH32LL/A computer,laptop,"A 15.4-inch laptop tested with macOS Sierra 10.12, an Intel Core i7 2.6GHz processor, 16GB of memory, AMD Radeon Pro 450/Intel HD Graphics 530 graphics, and a 256GB solid state drive.",1,4.0,True,"CONS
+1 Poor Battery Life","PROS
+1 Adequate Storage
+1 Durable Construction
+1 Easy To Use
+1 Fast
+1 Large Screen","5 Stars 0
+4 Stars 1
+3 Stars 0
+2 Stars 0
+1 Star 0",4.0,,Love everything but the battery life,2017-07-26T15:20:32.600Z,2017-07-26,15:20:32.600,Twitchly,Michigan,,Michigan,USA,nan,Verified Reviewer,"Overall, I enjoy using this MacBook Pro. It's zippy and plenty powerful for my needs (Photoshop, mostly), and the display is gorgeous. The sound is surprisingly good as well. I got the most storage possible because of all the photography I do. I much prefer the Pro's keyboard to that of the 12"" MacBook (which I use for travel), but I'm underwhelmed with the Pro's battery life; that's its main drawback. At full brightness and only slight Photoshop use, I'll burn through a full charge in around 4 hours just surfing Safari and editing in Word. I have no idea how Consumer Reports gets its massive 17-hour-plus battery results. Like the MacBook, this MacBook Pro also has only USB-C ports, but I'm finding that less of an issue now that many peripherals are coming with USB-C connectors. I like the fact that it has four ports instead of the paltry single port on the 12"" MacBook. I'm surprised how much I like using touch-ID for signing in and the touchbar itself for certain tasks, like archiving or deleting email. I hope the touch-ID can be better integrated online in the future, eradicating the need for entering passwords everywhere. The quality of the machine is excellent, as usual, and for the most part it's a joy to use. Aside from the battery, no complaints.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-mlh32ll-a-388054/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n
+Asus,Asus Q324UA-BHI7T17 computer,laptop,"A 13.3-inch convertible laptop tested with Windows 10 Home, an Intel Core i7-7500U 2.7GHz processor, 16GB of memory, Intel HD Graphics 620 graphics, a touchscreen, and a 512GB solid state drive.",1,5.0,True,"CONS
+1 Fingerprint Sensor Poor
+1 Shows Fingerprints
+1 Touch Screen Limitations","PROS
+1 Adequate Storage
+1 Easy To Use
+1 Fast
+1 Good Battery Life
+1 Lightweight","5 Stars 1
+4 Stars 0
+3 Stars 0
+2 Stars 0
+1 Star 0",5.0,,Very good business and personal computer.,2017-01-26T14:43:32.975Z,2017-01-26,14:43:32.975,ColoCoug,Fort Collins CO,,Fort Collins CO,USA,nan,nan,"I bought this computer primarily for travel and portable use around campus. It has more than met my expectations in most regards. Every aspect of this machine displays quality manufacture, good ergonomics and computing power. This Win10 machine should be useful and contemporary for years. Display: clear, bright, and useful in a wide variety of lighting situations. The screen is not a matte finish and is reflective, so it will show lights and objects in reflections. This has not been a problem, although on airplanes I sometimes have to angle the computer ti reduce reflection from bright objects in a darkened cabin. Resolution of the display is excellent and provides crisp viewing of documents and images. The screen easily displays every fingerprint, and the exterior of the computer tends to show prints as well, but there is an enclosed microfiber cloth which does a nice job of cleaning it up. I've seen reviews which criticize this fingerprint display, but screens generally show fingerprints anyway. Not a big problem for me. Keypad: the touch of the keys is very nice. I can always tell when I have depressed a key. I am able to type fairly fast with no higher error rate than normal. The home/end/pageup/pagedown functions can only be accessed by using the Function key, but that's not unusual with compact laptops; they can only have so many keys. I've become used to using the Function key in combinations as needed. Touchpad: very sensitive. It takes a bit of getting used to, but that's normal whenever you move between machines. The click functions of the main pad and the left/right buttons are easy to control. Speed: this is a very fast machine. Boot-up is less than 30 seconds and it's very responsive. Programs open quickly and operation has been absolutely flawless. TOP marks in this regard, which is one of the most important considerations for me. RAM and hard drive: The 16 GB of RAM and i7 processor make this a very fast machine. I'm confident that I won't run out of storage with the solid state 512 GB hard drive. Ports: It was important to me to have at least two USB-A ports, and I got them. There is also a USB-C port, which is a direction the PC industry is going, so I'm happy to have it. There is also a full size HDMI port which is important because in my higher education environment most projectors and classrooms have full size HDMI connections. There is an SD card port but I typically don't transfer files via SD so I haven't used it. Fingerprint sensor: worked the first half-dozen times I used it, but seems to have decided that's enough. I could try clearing it and re-entering my fingerprint every week, but why bother? I have a 4-character password to access the machine and that's quick and easy. In this regard the fingerprint sensor is no better or worse than most. Touchscreen: The main limitation of the computer is that the touchscreen is designed to open and close programs, drag objects around and carry out similar tasks. It does not serve as a graphics tablet, because its resolution of drawn objects and characters is blocky and rough. It will recognize styli such as the Gosin Digital Stylus, but numbers and characters drawn are blocky. It's not a replacement for a graphics tablet. Weight: it's actually an ounce or two heavier than the 2.8 pounds in its specifications, but it's still the best combination of power, portability and display quality that I have found. It's very compact, fits into a briefcase or backpack, and with the solid state hard drive, it's going to resist travel and handling very well. The folding screen: I like the folding screen which makes the computer into a tablet-like display. Just keep in mind that drawing on the screen isn't likely to result in very well drawn characters. Also be careful if you fold the screen over and sit the computer with the inactive keyboard sitting on an airline fold-down tray; I did this and one of the keys caught on the tray and popped off. ASUS replaced the key under warranty, but since I had to ship it to them (and got it back within 10 days, superb turnaround time) for the replacement, that was an inconvenience. I suspect this caution would apply to most laptops. Bottom line: I REALLY like this computer, love its fast performance and light weight, and find none of its shortcomings to be major issues.","Yes, I would recommend to a friend",http://www.consumerreports.org/products/laptop/asus-q324ua-bhi7t17-387893/user-reviews#user-reviews,Verified Buyer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/nVerified Reviewer Not Found: : <class 'selenium.common.exceptions.NoSuchElementException'>/n

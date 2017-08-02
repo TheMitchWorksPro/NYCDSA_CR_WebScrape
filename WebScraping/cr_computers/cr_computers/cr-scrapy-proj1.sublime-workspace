@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_attribute"
+			],
+			[
+				"parse",
+				"parse_top"
+			],
+			[
+				"adult",
+				"adult_data"
+			],
+			[
+				"emp",
+				"EmployeeName"
+			],
+			[
+				"hire",
+				"HireDate"
+			],
+			[
+				"sum",
+				"extraSum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nhttps://free-proxy-list.net\nhttps://stackoverflow.com/questions/31639742/how-to-pass-all-pythons-traffics-through-a-http-proxy\n\n=============\nMain URLs:\n=============\n\nLevel 1:  Index of individual product URLs organized in pages ...\n\nhttp://www.consumerreports.org/products/laptop/ratings-overview/\n  - has at least 6 pages of links \n\nhttp://www.consumerreports.org/products/desktop-computer/ratings-overview/\n  - has three pages of links\n\nhttp://www.consumerreports.org/products/chromebooks/ratings-overview/\n  - has one page of links\n\n\n\n=================================\nsample HTML and XPaths From CR\n=================================\n\nNext Page click - Numbers:\n<li class=\"page-number\"><a href=\"javascript:void(0)\">2</a></li>\n\nNext Page click - next button:\n<li class=\"page-next\"><a href=\"javascript:void(0)\"><i class=\"fa fa-chevron-right\" aria-hidden=\"true\"></i></a></li>\n\nIndex page:  product title\n<span class=\"model-meta__title\">Aspire E5-574-53QS</span>\n\nIndex page:  price:\n//*[@id=\"price-and-shop-table\"]/tbody/tr[1]/td/div/div[2]/div[3]/a/span\n\n<div class=\"model-meta__mobile-price hidden-lg hidden-md hidden-print\">\n                                            <span class=\"model-meta__mobile-price__prefix\">From: </span>\n                                                                                            <a href=\"/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/price-and-shop/#Price\">\n                                                    <span class=\"product-model-price-container price-model legacy-99054361\" data-price-model-id=\"99054361\">$1,000.00</span>\n                                                </a>\n                                                <span class=\"model-meta__mobile-price__suffix\"></span>\n                                                                                                                                </div>\n\n<span class=\"product-model-price-container price-model legacy-99056857\" data-price-model-id=\"99056857\">$390.00</span>\n<div class=\"model__model-meta\">\n                                        <div class=\"text-wrap\">\n                                            <a href=\"/products/laptop/acer-aspire-e5-574-53qs-385910/overview/\"><strong>Acer</strong>\n                                             <span class=\"model-meta__title\">Aspire E5-574-53QS</span></a>\n                                        </div>\n                                                                                <div class=\"model-meta__subscribe hidden-sm hidden-xs hidden-print \">\n                                            <a href=\"https://ec.consumerreports.org/ec/cro/order.htm\">Subscribe Now!</a>\n                                        </div>\n                                                                                <div class=\"model-meta__mobile-price hidden-lg hidden-md hidden-print\">\n                                            <span class=\"model-meta__mobile-price__prefix\">From: </span>\n                                                                                            <a href=\"/products/laptop/acer-aspire-e5-574-53qs-385910/price-and-shop/#Price\">\n                                                    <span class=\"product-model-price-container price-model legacy-99056857\" data-price-model-id=\"99056857\">$390.00</span>\n                                                </a>\n                                                <span class=\"model-meta__mobile-price__suffix\"></span>\n                                                                                                                                </div>\n                                    </div>\n\n\n/html/body/div[5]/div[2]/section/div[3]\n\nbody > div.container.main-container > div.row.row-mobile > section > div.bootstrap-table\n<div class=\"bootstrap-table\"\n\n//section//div[@class=\"bootstrap-table\"]\n\n\n\n<span class=\"product-model-spec-item-tooltip-text\">\n                                                <strong>Display size</strong>\n                                                The diagonal measure of the LCD (Liquid Crystal Display) screen.\n                                            </span>",
+			"file": "/Users/mitchmac/Desktop/cr_computers_planning.txt",
+			"file_size": 3841,
+			"file_write_time": 131456558800000000,
+			"settings":
+			{
+				"buffer_size": 4139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mitchmac/Desktop/research_html/cr_compReview_mainSpec_html.txt",
+			"settings":
+			{
+				"buffer_size": 44079,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mitchmac/Documents/DS_BootCamp/course_materials/Introduction_to_Scrapy/scrapy_console_commands.txt",
+			"settings":
+			{
+				"buffer_size": 805,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "items.py",
+			"settings":
+			{
+				"buffer_size": 308,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pipelines.py",
+			"settings":
+			{
+				"buffer_size": 291,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 3186,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mitchmac/Desktop/ScreenScraping_ProcessWorkflow.txt",
+		"/Users/mitchmac/Documents/jupyter_root/DS_BootCamp_PY/projects/cr_computers_laptops.py",
+		"/Users/mitchmac/Documents/jupyter_root/DS_BootCamp_PY/projects/cr_computers_desktops.py",
+		"/Users/mitchmac/Documents/jupyter_root/DS_BootCamp_PY/projects/cr_computers_cbks.py",
+		"/Users/mitchmac/Desktop/cr_computers/cr_computers/cr_computers_plannint.txt",
+		"/Users/mitchmac/Desktop/verizon_final_test.py",
+		"/Users/mitchmac/Desktop/cr_computers_laptops.py",
+		"/Users/mitchmac/Desktop/cr_computers_desktops.py",
+		"/Users/mitchmac/Desktop/cr_computers_cbks.py",
+		"/Users/mitchmac/Desktop/cr_computers_laptops_cbks.py",
+		"/Users/mitchmac/Desktop/cr_computers.py",
+		"/Users/mitchmac/Documents/jupyter_root/DS_BootCamp_PY/Selenium/verizon_final.py",
+		"/Users/mitchmac/Documents/jupyter_root/DS_BootCamp_PY/Selenium/verizon_starter.py",
+		"/Users/mitchmac/Documents/DS_BootCamp/course_materials/Introduction_to_Scrapy/xpaths_temp.txt",
+		"/Users/mitchmac/Desktop/cr_computers/cr_computers/items.py",
+		"/Users/mitchmac/Desktop/cr_computers/cr_computers/spiders/example.py",
+		"/Users/mitchmac/Documents/DS_BootCamp/course_materials/Introduction_to_Scrapy/lab/budget/spiders/budget_spider.py",
+		"/Users/mitchmac/Desktop/google_play/google_play/items.py",
+		"/Users/mitchmac/Downloads/google_play/google_play/settings.py",
+		"/Users/mitchmac/Downloads/google_play/google_play/pipelines.py",
+		"/Users/mitchmac/Desktop/google_play/google_play/spiders/google_spider.py",
+		"/Users/mitchmac/Downloads/google_play 3/google_play/items.py",
+		"/Users/mitchmac/Desktop/budget/budget/spiders/budget_spider.py",
+		"/Users/mitchmac/Desktop/google_play/google_play/settings.py",
+		"/Users/mitchmac/Desktop/google_play/google_play/pipelines.py",
+		"/Users/mitchmac/Documents/DS_BootCamp/Unresolved_Issues_Temp.txt",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/V1/about_project/about_this_project.md",
+		"/Users/mitchmac/Documents/DS_BootCamp/course_materials/Renamed_files_log.log",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/www/custom.css",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_io_setup.txt",
+		"/Users/mitchmac/Documents/DS_BootCamp/course_materials/carto_vendorProd/Carto_studies_fileLists_and_notes.txt",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/early_inputs/IMDB_omdb_ScreenScrapeErrors.log",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_FileListsForProj.txt",
+		"/Users/mitchmac/Documents/jupyter_root/git_repos/Mitch/TestProject/gitignore",
+		"/Users/mitchmac/Documents/code_related_accouts.txt",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_omdb_ScreenScrapeErrors.log",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_Bottom250movies.csv",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_ErrorLogIDs2_OMDB_Detailed.csv",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_ErrorLogIDs2.csv",
+		"/Users/mitchmac/Documents/jupyter_root/my_module.py",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/IMDB_ErrorLogIDs1.csv",
+		"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/json_file_5000plus_IMDB_MovieUrls.txt",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/HW_Drafts/KeyList",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/HW_Drafts/Mitchell_Abramson.sql",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/SQL_Day2_ClassText.txt",
+		"/Users/mitchmac/Documents/Acer_PC_ex/Folders Copied From Acer:",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/Mitchell_Abramson_Homework-Raw.txt",
+		"/Users/mitchmac/Documents/git_repos/test/a.txt",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/Mitchell_Abramson_Homework.txt",
+		"/Users/mitchmac/Documents/git_repos/temp_content.py",
+		"/Users/mitchmac/Documents/git_repos/project_1/draw.py",
+		"/Users/mitchmac/Documents/git_repos/project_1/draw_sq_circle_thing.py",
+		"/Users/mitchmac/Documents/git_repos/project_1/triangle.py",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/06-28BasicGit-Raw.txt",
+		"/Users/mitchmac/Documents/Data Science Boot Camp/2017-06-27 Day-2 Terminal Data Dump_Git.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/Users/mitchmac/Documents/DS_BootCamp/projects/shiny_imdb/data/",
+			"IMDB_hotlists",
+			".csv",
+			"colsunequal",
+			"~",
+			":....",
+			":*",
+			"colsunequal",
+			"For ID:  ",
+			"   cols unequal:  2   38",
+			"tt0083131",
+			"ref_=fn_tt_tt_1",
+			"SELECT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"IMDB_multiSrc_data",
+			"_OMDB_Detailed.csv",
+			"OMDB_Detailed.csv",
+			"",
+			"~",
+			"",
+			"ref_=fn_tt_tt_1&f8ce61fb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mitchmac/Desktop/cr_computers_planning.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4139,
+								4139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mitchmac/Desktop/research_html/cr_compReview_mainSpec_html.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1088,
+								1088
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6853.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mitchmac/Documents/DS_BootCamp/course_materials/Introduction_to_Scrapy/scrapy_console_commands.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "items.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pipelines.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cr-scrapy-proj1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

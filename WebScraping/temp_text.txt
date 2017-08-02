@@ -1,0 +1,34 @@
+				user_rating = np.nan
+				user_rating_txt = np.nan
+				user_rvw_hdln = np.nan
+				submit_date = np.nan
+				rvw_username = np.nan
+				rvw_userLocation = np.nan
+				verified_buyer = np.nan
+				verified_reviewer = np.nan
+				user_review_content = np.nan
+				btm_line_txt = np.nan
+
+
+
+
+model
+brand
+			num_usr_reviews
+			rec_rvw_rating
+			has_reviews
+			
+			user_rating 
+			user_rating_txt 
+			user_rvw_hdln 
+			submit_date 
+			rvw_username 
+			rvw_userLocation 
+			verified_buyer 
+			verified_reviewer 
+			user_review_content 
+			btm_line_txt 
+
+
+"num_usr_reviews", "rec_rvw_rating", "has_reviews", "user_rating", "user_rating_txt", "user_rvw_hdln", "submit_date", "rvw_username", "rvw_userLocation", "verified_buyer", 
+"verified_reviewer", "user_review_content", "btm_line_txt"

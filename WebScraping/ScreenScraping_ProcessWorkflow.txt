@@ -1,0 +1,7 @@
+run all 3 python silineum scripts starting with "cr_computers_*.py" one at a time
+3 spreadsheets are generated
+Use Jupyter notebook to combine all 3 worksheets (and clean price column)
+Output of above becomes input spider
+
+run first spider to generate spec table that needs to be transformed
+run second spider to generate user reviews table that needs ...

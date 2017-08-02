@@ -1,0 +1,491 @@
+
+<a class="product-model-eyebrow-link visible-xs" id="see-prices-link" data-brandname="Acer" data-modelname="ChromeBook C810-T7ZT" data-path="/price-and-shop/" href="#Price">See Prices</a>
+
+========
+
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                                            <h2>Specs</h2>
+                        <div class="product-model-spec-container">
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Display size
+                                                                                            (in.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Display size</strong>
+                                                The diagonal measure of the LCD (Liquid Crystal Display) screen.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        13.3
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Operating system (as tested)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Operating system (as tested)</strong>
+                                                The operating system that was installed on the computer at the time it was tested. The operating system is the software that controls the basic operation of the computer. Common examples are Windows and Mac OS. The operating system determines the "look and feel" of the PC.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        OS X Yosemite 10.10
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Processor
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Processor</strong>
+                                                Also known as the CPU (Central Processing Unit), the processor is responsible for running commands and handling data. Processors come in different speeds and may have two or more cores (ex. dual-core), which let you more quickly process multiple complex tasks.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Intel Core i5 2.7GHz
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Memory
+                                                                                            (GB)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Memory</strong>
+                                                Also known as RAM, memory is a temporary storage area for data. Its size is an important factor for performance. We recommend at least 4GB of memory, or 8GB if you plan to run several large applications at the same time.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        8
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Storage
+                                                                                            (GB)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Storage</strong>
+                                                The amount of storage, a permanent area for the operating system, programs and data such as documents, music, and media files. Storage can be a hard drive, an SSD (solid state drive), or hybrid drive.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        128
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Video memory
+                                                                                            (MB)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Video memory</strong>
+                                                The amount of dedicated memory built into a graphics adapter. Most models have integrated graphics, which have no dedicated memory but are still suitable for most applications, including photo editing and watching movies. Others have discrete graphic adapters, which typically have 256 MB or more video memory, to deliver smoother and more realistic graphics for 3D games.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        <img src="//static5.consumerreportscdn.org/images/icons/blob-na.svg">
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            LCD resolution
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>LCD resolution</strong>
+                                                The number of picture elements ("pixels") across the horizontal and vertical dimension of the screen. The higher the resolution within a given size screen, the finer the detail that can be displayed.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        2560 x 1600
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Video adapter
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Video adapter</strong>
+                                                Also known as the video card, the video adapter processes all the data that you see on your screen. They come in different speeds and may be integrated (most common, but is slower and uses up memory) or discrete (which is faster and has its own dedicated memory). If you will not be playing complex 3D games, any integrated graphics adapter will do. Otherwise, buy a discrete graphics adapter with a graphics processor from ATI or Nvidia with at least 256 MB of memory.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Intel Iris Graphics 6100
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Optical drive
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Optical drive</strong>
+                                                The optical drive reads and/or writes to CDs and DVDs. Most PCs come equipped with a DVD-RW, also known as a DVD burner, which lets you read and write to DVDs.Some models come with Blu-Ray drives, which let you play high-definition movies.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        None
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Height
+                                                                                            (in.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Height</strong>
+                                                The height of the computer while closed. This includes the keyboard dock on detachable laptops.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        0.7
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Depth
+                                                                                            (in.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Depth</strong>
+                                                The depth of the computer while closed. This includes the keyboard dock for detachable laptops.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        8.6
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Width
+                                                                                            (in.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Width</strong>
+                                                The width of the computer while closed. This includes the keyboard dock of detachable laptops.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        12.4
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Warranty length
+                                                                                            (mos.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Warranty length</strong>
+                                                The length in months of the manufacturer's standard warranty.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        12
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Tech support length
+                                                                                            (mos.)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Tech support length</strong>
+                                                The length in months of the manufacturer's technical support by telephone.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        3
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Battery capacity
+                                                                                            (WHr)
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Battery capacity</strong>
+                                                The total energy contained in the battery, expressed in Watt-hours. A larger capacity battery will deliver longer battery life, but will add weight and sometimes will extend beyond the edge of the netbook.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        44
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Energy Star
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Energy Star</strong>
+                                                Qualified by the U.S. government's Energy Star program for low power consumption.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Yes
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            EPEAT level
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>EPEAT level</strong>
+                                                EPEAT (Electronic Product Environment Assessment Tool) certification, based on environmental attributes such as the types of materials used and power consumption. There are three levels (in increasing order of environmental performance): bronze, silver, and gold. Products without an EPEAT level either do not meet EPEAT's minimum requirements or have not yet been tested by EPEAT.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Gold
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                                                                                <h2>Features</h2>
+                        <div class="product-model-spec-container">
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Blu-ray or DVD
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Blu-ray or DVD</strong>
+                                                Has either a Blu-Ray drive (B), which lets you watch Blu-Ray movies and read/write to CDs and DVDs, or a DVD drive (D), which lets you read/write to CDs and DVDs.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        None
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Memory-card reader
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Memory-card reader</strong>
+                                                At least one flash memory-card slot (CF, SD, XD, MS, etc.)
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Yes
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Facial recognition
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Facial recognition</strong>
+                                                Webcam can be set to scan your face for secure log-in.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Hand gesture control
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Hand gesture control</strong>
+                                                Hand gesture control allows you to use specific hand motions to control your computer. Depending on the software you can do things like raise and lower volume, scroll up and down, zoom in and out and open and close applications.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Fingerprint reader
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Fingerprint reader</strong>
+                                                A biometric fingerprint reader for logging into your PC.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                                                                                <h2>Connections</h2>
+                        <div class="product-model-spec-container">
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            WiFi type
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>WiFi type</strong>
+                                                The type of built-in 802.11 wireless networking supported. Computers with 802.11n also support 802.11g routers. Some models with 802.11n also support the 5GHz "high band," a standard suitable for apartments and other crowded areas.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        802.11ac
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            USB sleep and charge
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>USB sleep and charge</strong>
+                                                Unlike standard USB ports that power off when the computer is turned off or put to sleep, sleep and charge USB ports remain powered on when in sleep mode. They can be used to charge electronic devices such as smartphones and tablets.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Thunderbolt port
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Thunderbolt port</strong>
+                                                Has a Thunderbolt port for connecting peripherals such as an external hard drive. This includes ports that may be on the keyboard dock of detachable laptops. Thunderbolt is a high-speed port that can connect to DVI, HDMI and VGA through the use of adapters. Thunderbolt 3 is the newest version that supports faster speeds.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Yes
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Digital video out
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Digital video out</strong>
+                                                Has a DVI, HDMI, or DisplayPort video output for sending a digital video signal to a computer monitor or HDTV.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Yes
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Number of USB ports
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Number of USB ports</strong>
+                                                Number of USB ports for printers, flash drives, or other peripherals. This includes ports that may be on the keyboard dock of detachable laptops.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        2
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            Gigabit Ethernet
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>Gigabit Ethernet</strong>
+                                                Support for 1,000 Mb/s networking.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            VGA video out
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>VGA video out</strong>
+                                                A connection for an external display with a VGA input. This includes ports that may be on the keyboard dock of detachable laptops.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            DVI video out
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>DVI video out</strong>
+                                                A connection for an external digital flat-panel display.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        No
+                                                                                    </div>
+                                                                    </div>
+                                                                                            <div class="row product-model-spec-item">
+                                    <div class="col-lg-5 col-md-5 col-sm-6 col-xs-12">
+                                        <div class="product-model-spec-item-tooltip">
+                                            HDMI output
+                                                                                        <span class="product-model-spec-item-tooltip-text">
+                                                <strong>HDMI output</strong>
+                                                An HDMI video out port for sending video to an HDTV.
+                                            </span>
+                                        </div>
+
+                                    </div>
+                                                                            <div class="col-lg-7 col-md-7 col-sm-6 col-xs-12 product-model-spec-item-value">
+                                                                                        Yes
+                                                                                    </div>
+                                                                    </div>
+                                                    </div>
+                                                </div>

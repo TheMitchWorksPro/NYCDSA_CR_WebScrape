@@ -1,0 +1,265 @@
+prod_class,brand,product_title,price,url
+laptop,Acer,Aspire E5-574-53QS,$390.00,http://www.consumerreports.org/products/laptop/acer-aspire-e5-574-53qs-385910/overview/
+laptop,Acer,Aspire ES1-571-P1MG,$315.00,http://www.consumerreports.org/products/laptop/acer-aspire-es1-571-p1mg-386346/overview/
+laptop,Acer,Aspire One Cloudbook AO1-131-C9PM,$165.00,http://www.consumerreports.org/products/laptop/acer-aspire-one-cloudbook-ao1-131-c9pm-384806/overview/
+laptop,Acer,Aspire R5-571T-57Z0,$700.00,http://www.consumerreports.org/products/laptop/acer-aspire-r5-571t-57z0-388093/overview/
+laptop,Acer,Aspire R7-372T-54TM,$900.00,http://www.consumerreports.org/products/laptop/acer-aspire-r7-372t-54tm-387107/overview/
+laptop,Acer,Spin 5 SP513-51-55ZR,$570.00,http://www.consumerreports.org/products/laptop/acer-spin-5-sp513-51-55zr-388098/overview/
+laptop,Acer,Swift 3 SF314-51-52W2,$690.00,http://www.consumerreports.org/products/laptop/acer-swift-3-sf314-51-52w2-387923/overview/
+laptop,Apple,MacBook Air 13-inch MJVE2LL/A,"$1,000.00",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/overview/
+laptop,Apple,MacBook Pro 13-inch with Retina Display MF839LL/A,"$1,149.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/overview/
+laptop,Apple,MacBook Pro 15-inch with Retina Display MJLQ2LL/A,"$1,848.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/overview/
+laptop,Apple,MacBook Pro 15-inch with Touch Bar MPTU2LL/A,"$2,297.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-touch-bar-392574/overview/
+laptop,Asus,EeeBook E402MA-EH,$200.00,http://www.consumerreports.org/products/laptop/asus-eeebook-e402ma-eh-386280/overview/
+laptop,Asus,Q304UA-BBI5T10,$595.00,http://www.consumerreports.org/products/laptop/asus-q304ua-bbi5t10-386676/overview/
+laptop,Asus,T300CHI-RHM5T06,$475.00,http://www.consumerreports.org/products/laptop/asus-t300chi-rhm5t06-385010/overview/
+laptop,Asus,Transformer Book T100CHI-C1,$295.00,http://www.consumerreports.org/products/laptop/asus-transformer-book-t100chi-c1-379138/overview/
+laptop,Asus,VivoBook E403SA-US21,$370.00,http://www.consumerreports.org/products/laptop/asus-vivobook-e403sa-us21-386117/overview/
+laptop,Asus,X555YA-DB84Q,$430.00,http://www.consumerreports.org/products/laptop/asus-x555ya-db84q-387687/overview/
+laptop,Asus,ZenBook Flip UX360CA,$800.00,http://www.consumerreports.org/products/laptop/asus-zenbook-flip-ux360ca-387106/overview/
+laptop,Asus,ZenBook Pro UX501VW-DS71T,"$1,500.00",http://www.consumerreports.org/products/laptop/asus-zenbook-pro-ux501vw-ds71t-386108/overview/
+laptop,Dell,Inspiron I3452-600BLK,$210.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i3452-600blk-384994/overview/
+laptop,Dell,Inspiron i5568-5240,$580.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5568-5240-387264/overview/
+laptop,Dell,Inspiron I7579-0028GRY,$800.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i7579-0028gry-388094/overview/
+laptop,HP,ENVY x360 15t Touch 7th Gen,$730.00,http://www.consumerreports.org/products/laptop/hp-envy-x360-15t-touch-7th-gen-387889/overview/
+laptop,HP,Laptop 17.3,$790.00,http://www.consumerreports.org/products/laptop/hp-laptop-17-3-386464/overview/
+laptop,HP,Pavilion M1-U001DX,$400.00,http://www.consumerreports.org/products/laptop/hp-pavilion-m1-u001dx-386340/overview/
+laptop,HP,Pavilion x2 12b010nr,$500.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x2-12b010nr-385667/overview/
+laptop,HP,Pavilion x360 m3-u103dx,$700.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-m3-u103dx-388096/overview/
+laptop,HP,Stream 11-y010nr,$200.00,http://www.consumerreports.org/products/laptop/hp-stream-11-y010nr-387459/overview/
+laptop,Huawei,Matebook,$515.00,http://www.consumerreports.org/products/laptop/huawei-matebook-387684/overview/
+laptop,Lenovo,110-15IBR 80T7000HUS,$300.00,http://www.consumerreports.org/products/laptop/lenovo-110-15ibr-386678/overview/
+laptop,Lenovo,300-17ISK 80QH008MUS,$330.00,http://www.consumerreports.org/products/laptop/lenovo-300-17isk-386677/overview/
+laptop,Lenovo,Flex 3 80LY0008US,$300.00,http://www.consumerreports.org/products/laptop/lenovo-flex-3-80ly0008us-385003/overview/
+laptop,Lenovo,Ideapad 300S,$530.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-300s-385670/overview/
+laptop,Lenovo,Ideapad Miix 310,$300.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-miix-310-387117/overview/
+laptop,Lenovo,Ideapad Y700 80NU000UUS,$800.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80nu000sus-386451/overview/
+laptop,Lenovo,Ideapad Y700 80NW000PUS,"$1,000.00",http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80nw000pus-386453/overview/
+laptop,Lenovo,Ideapad Y700 80Q0008WUS,"$1,189.99",http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80q0008wus-386452/overview/
+laptop,Lenovo,ThinkPad N22,$150.00,http://www.consumerreports.org/products/laptop/lenovo-thinkpad-n22-387458/overview/
+laptop,Lenovo,ThinkPad X1 Carbon 4th Gen,"$2,025.00",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-carbon-4th-gen-386343/overview/
+laptop,Lenovo,ThinkPad X1 Yoga,"$1,403.99",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-yoga-385732/overview/
+laptop,Lenovo,Y700-15ACZ,$800.00,http://www.consumerreports.org/products/laptop/lenovo-y700-15acz-386281/overview/
+laptop,LG,gram 14Z950,$900.00,http://www.consumerreports.org/products/laptop/lg-gram-14z950-384804/overview/
+laptop,LG,gram 15Z960,"$1,050.00",http://www.consumerreports.org/products/laptop/lg-gram-15z-960-386112/overview/
+laptop,Microsoft,Surface Book,"$1,300.00",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/overview/
+laptop,Microsoft,Surface Pro 4,$900.00,http://www.consumerreports.org/products/laptop/microsoft-surface-pro-4-384902/overview/
+laptop,Samsung,ATIV Book 9 NP930X2K-K02US,$750.00,http://www.consumerreports.org/products/laptop/samsung-ativ-book-9-np930x2k-k02us-371599/overview/
+laptop,Samsung,Notebook 7 740U5LE,"$1,000.00",http://www.consumerreports.org/products/laptop/samsung-notebook-7-740u5le-387110/overview/
+laptop,Samsung,Notebook 9 NP900X3L-K06US,$850.00,http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x3l-k06us-385908/overview/
+laptop,Samsung,Notebook 9 NP900X5L-K02US,"$1,199.99",http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x5l-k02us-385909/overview/
+laptop,Samsung,Notebook 9 pro NP940Z5L-X01US,"$1,050.00",http://www.consumerreports.org/products/laptop/samsung-notebook-9-pro-np940z5l-x01us-385107/overview/
+laptop,Samsung,Notebook 9 spin NP940X3L-K01US,"$1,000.00",http://www.consumerreports.org/products/laptop/samsung-notebook-9-spin-np940x3l-k01us-385106/overview/
+laptop,Vaio,Z,"$1,479.00",http://www.consumerreports.org/products/laptop/vaio-z-386114/overview/
+laptop,Vaio,Z Canvas,"$1,540.00",http://www.consumerreports.org/products/laptop/vaio-z-canvas-385680/overview/
+laptop,Vaio,Z Flip,"$1,749.98",http://www.consumerreports.org/products/laptop/vaio-flip-z-385731/overview/
+laptop,Acer,Aspire E5-575T-3678,$400.00,http://www.consumerreports.org/products/laptop/acer-aspire-e5-575t-3678-388641/overview/
+laptop,Acer,Aspire ES 15 E5-573-35JA,$250.00,http://www.consumerreports.org/products/laptop/acer-aspire-es-15-e5-573-35ja-386283/overview/
+laptop,Acer,Aspire ES1-533-C55P,$280.00,http://www.consumerreports.org/products/laptop/acer-aspire-es1-533-c55p-388642/overview/
+laptop,Acer,Aspire F5-573-505W,$500.00,http://www.consumerreports.org/products/laptop/acer-aspire-f5-573-505w-386465/overview/
+laptop,Acer,Aspire Nitro VN7- 592G-77,"$1,115.00",http://www.consumerreports.org/products/laptop/acer-aspire-nitro-vn7-592g-77-386284/overview/
+laptop,Acer,Aspire R3-131T-P6G7,$450.00,http://www.consumerreports.org/products/laptop/acer-aspire-r3-131t-p6g7-387266/overview/
+laptop,Acer,Aspire R5-571T-59DC,$585.00,http://www.consumerreports.org/products/laptop/acer-aspire-r5-571t-59dc-386554/overview/
+laptop,Acer,Aspire S 13 S5-371T-76CY,"$1,050.00",http://www.consumerreports.org/products/laptop/acer-aspire-s-13-s5-371t-76cy-387895/overview/
+laptop,Acer,Aspire S5-371-52JR,$715.00,http://www.consumerreports.org/products/laptop/acer-aspire-s5-371-52jr-386553/overview/
+laptop,Acer,Aspire Switch 10 SW5-015-198P,$350.00,http://www.consumerreports.org/products/laptop/acer-aspire-switch-10-sw5-015-198p-386345/overview/
+laptop,Acer,Aspire V5-591G-55PV,$800.00,http://www.consumerreports.org/products/laptop/acer-aspire-v5-591g-55pv-387108/overview/
+laptop,Acer,Spin 1 SP111-31-C2W3,$250.00,http://www.consumerreports.org/products/laptop/acer-spin-1-sp111-31-c2w3-388639/overview/
+laptop,Acer,Swift 7 SF713-51-M90J,"$1,000.00",http://www.consumerreports.org/products/laptop/acer-swift-7-sf713-51-m90j-387922/overview/
+laptop,Acer,Switch Alpha 12 SA5-271-594J,$700.00,http://www.consumerreports.org/products/laptop/acer-switch-alpha-12-sa5-271-594j-386446/overview/
+laptop,Apple,MacBook 12-inch MF855LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-mf855ll-a-377002/overview/
+laptop,Apple,MacBook 12-inch MLHE2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-mlhe2ll-a-386115/overview/
+laptop,Apple,MacBook 12-inch MNYH2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-392572/overview/
+laptop,Apple,MacBook Air 11-inch MJVM2LL/A,$900.00,http://www.consumerreports.org/products/laptop/apple-macbook-air-11-inch-mjvm2ll-a-374085/overview/
+laptop,Apple,MacBook Pro 13-inch MLH12LL/A,"$1,800.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-mlh12ll-a-388053/overview/
+laptop,Apple,MacBook Pro 13-inch MLL42LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-mll42ll-a-388052/overview/
+laptop,Apple,MacBook Pro 13-inch MPXR2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-no-touch-bar-392573/overview/
+laptop,Apple,MacBook Pro 15-inch MLH32LL/A,"$2,400.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-mlh32ll-a-388054/overview/
+laptop,Asus,Q304UA-BHI5T11,$650.00,http://www.consumerreports.org/products/laptop/asus-q304ua-bhi5t11-387894/overview/
+laptop,Asus,Q324UA-BHI7T17,"$1,100.00",http://www.consumerreports.org/products/laptop/asus-q324ua-bhi7t17-387893/overview/
+laptop,Asus,Q524UQ-BBI7T14,$880.00,http://www.consumerreports.org/products/laptop/asus-q524uq-bbi7t14-386679/overview/
+laptop,Asus,Q524UQ-BHI7T15,"$1,000.00",http://www.consumerreports.org/products/laptop/asus-q524uq-bhi7t15-388948/overview/
+laptop,Asus,Transformer Book T300CHI-F1-DB,$465.00,http://www.consumerreports.org/products/laptop/asus-transformer-book-t300chi-f1-db-381372/overview/
+laptop,Asus,VivoBook E200HA-US01,$200.00,http://www.consumerreports.org/products/laptop/asus-vivobook-e200ha-us01-385911/overview/
+laptop,Asus,VivoBook Pro N552VX,"$1,300.00",http://www.consumerreports.org/products/laptop/asus-vivobook-pro-n552vx-387457/overview/
+laptop,Dell,Inspiron 11 3000,$180.00,http://www.consumerreports.org/products/laptop/dell-inspiron-11-3000-385665/overview/
+laptop,Dell,Inspiron 11 3000 3rd Gen,$400.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-11-3000-3rd-gen-387111/overview/
+laptop,Dell,Inspiron 13 5000,$700.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-13-5000-387112/overview/
+laptop,Dell,Inspiron 13 7000 3rd Gen,$870.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-13-7000-3rd-gen-387114/overview/
+laptop,Dell,Inspiron 15 5000 3rd-Gen,$785.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-15-5000-3rd-gen-387113/overview/
+laptop,Dell,Inspiron 15 7000 3rd-Gen,$750.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-15-7000-3rd-gen-387115/overview/
+laptop,Dell,Inspiron 17 7000 3rd-Gen,$900.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-17-7000-3rd-gen-387116/overview/
+laptop,Dell,Inspiron i3567-3465BLK,$400.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i3567-3465blk-389334/overview/
+laptop,Dell,Inspiron i5555-2843SLV,$450.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5555-2843slv-388772/overview/
+laptop,Dell,Inspiron i5565-5851GRY,$700.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5565-5851gry-388949/overview/
+laptop,Dell,Inspiron i5566-3000BLK,$365.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5566-3000blk-388771/overview/
+laptop,Dell,Inspiron i5567,$775.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5567-388951/overview/
+laptop,Dell,Inspiron i5759-5306SLV,$760.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5759-5306slv-385062/overview/
+laptop,Dell,Inspiron I7378-0028GRY,$800.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i7378-0028gry-388097/overview/
+laptop,Dell,Inspiron i7567-5000BLK,$800.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i7567-5000blk-388640/overview/
+laptop,Dell,XPS 12 2in1,$495.00,http://www.consumerreports.org/products/laptop/dell-xps-12-2in1-385666/overview/
+laptop,Dell,XPS 13 Convertible,"$1,350.00",http://www.consumerreports.org/products/laptop/dell-xps-13-convertible-388659/overview/
+laptop,Dell,XPS 15 Non-Touch,"$1,000.00",http://www.consumerreports.org/products/laptop/dell-xps-15-non-touch-384997/overview/
+laptop,Dell,XPS 15 Touch 6th-Gen,"$1,600.00",http://www.consumerreports.org/products/laptop/dell-xps-15-touch-6th-gen-384998/overview/
+laptop,HP,15-ay013dx,$500.00,http://www.consumerreports.org/products/laptop/hp-15-ay013dx-386445/overview/
+laptop,HP,15-AY103DX,$500.00,http://www.consumerreports.org/products/laptop/hp-15-ay103dx-388643/overview/
+laptop,HP,15-BA061DX,$400.00,http://www.consumerreports.org/products/laptop/hp-15-ba061dx-389340/overview/
+laptop,HP,17-X116DX,$480.00,http://www.consumerreports.org/products/laptop/hp-17-x116dx-388645/overview/
+laptop,HP,ENVY 13-d010nr,$725.00,http://www.consumerreports.org/products/laptop/hp-envy-13-d010nr-384991/overview/
+laptop,HP,ENVY 17t,$700.00,http://www.consumerreports.org/products/laptop/hp-envy-17t-384316/overview/
+laptop,HP,Envy Laptop 15t,"$1,100.00",http://www.consumerreports.org/products/laptop/hp-envy-laptop-15t-387685/overview/
+laptop,HP,ENVY M7-U109DX,"$1,050.00",http://www.consumerreports.org/products/laptop/hp-envy-m7-u109dx-388095/overview/
+laptop,HP,Pavilion 15 AMD,$675.00,http://www.consumerreports.org/products/laptop/hp-pavilion-15-amd-386454/overview/
+laptop,HP,Pavilion 15 Gaming,$700.00,http://www.consumerreports.org/products/laptop/hp-pavilion-15-gaming-386456/overview/
+laptop,HP,Pavilion 15 i5,$770.00,http://www.consumerreports.org/products/laptop/hp-pavilion-15-i5-386455/overview/
+laptop,HP,Pavilion 15-ab220nr,$685.00,http://www.consumerreports.org/products/laptop/hp-pavilion-15-ab220nr-384992/overview/
+laptop,HP,Pavilion 15-bc020nr,$890.00,http://www.consumerreports.org/products/laptop/hp-pavilion-15-bc020nr-387887/overview/
+laptop,HP,Pavilion 17 Gaming,$770.00,http://www.consumerreports.org/products/laptop/hp-pavilion-17-gaming-386457/overview/
+laptop,HP,Pavilion 17-g148dx,$380.00,http://www.consumerreports.org/products/laptop/hp-pavilion-17-g148dx-386109/overview/
+laptop,HP,Pavilion M3-U101DX x360,$475.00,http://www.consumerreports.org/products/laptop/hp-pavilion-m3-u101dx-x360-388646/overview/
+laptop,HP,Pavilion x360 11.6,$430.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-11-6-386461/overview/
+laptop,HP,Pavilion x360 13.3,$525.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-13-3-386463/overview/
+laptop,HP,Pavilion x360 15.6,$535.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-15-6-386462/overview/
+laptop,HP,Pavilion x360-11t,$330.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-11t-386338/overview/
+laptop,HP,Pavilion x360-13t,$525.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-13t-386339/overview/
+laptop,HP,Spectre 13-v011dx,"$1,100.00",http://www.consumerreports.org/products/laptop/hp-spectre-13-v011dx-386110/overview/
+laptop,HP,Spectre 15-BL012DX x360,"$1,500.00",http://www.consumerreports.org/products/laptop/hp-spectre-15-bl012dx-x360-388638/overview/
+laptop,HP,Spectre x360 13-4103dx,$975.00,http://www.consumerreports.org/products/laptop/hp-spectre-x360-13-4103dx-384989/overview/
+laptop,HP,Spectre x360 13-AC013DX,"$1,200.00",http://www.consumerreports.org/products/laptop/hp-spectre-x360-13-ac013dx-388767/overview/
+laptop,HP,Spectre x360 13t,"$1,170.00",http://www.consumerreports.org/products/laptop/hp-spectre-x360-13t-387888/overview/
+laptop,HP,Spectre x360-15t,"$1,150.00",http://www.consumerreports.org/products/laptop/hp-spectre-x360-15t-385668/overview/
+laptop,HP,Stream 14-ax010nr,$220.00,http://www.consumerreports.org/products/laptop/hp-stream-14-ax010nr-387686/overview/
+laptop,HP,x2 10-p020nr,$265.00,http://www.consumerreports.org/products/laptop/hp-x2-10-p020nr-387886/overview/
+laptop,Lenovo,310-15ABR,$400.00,http://www.consumerreports.org/products/laptop/lenovo-310-15abr-388644/overview/
+laptop,Lenovo,Flex 3 11,$230.00,http://www.consumerreports.org/products/laptop/lenovo-flex-3-11-379139/overview/
+laptop,Lenovo,Flex 4,$680.00,http://www.consumerreports.org/products/laptop/lenovo-flex-4-386342/overview/
+laptop,Lenovo,Flex 5 15,"$1,000.00",http://www.consumerreports.org/products/laptop/lenovo-flex-5-15-389338/overview/
+laptop,Lenovo,G70-80Q5004QUS,$330.00,http://www.consumerreports.org/products/laptop/lenovo-g70-80q5004qus-385669/overview/
+laptop,Lenovo,IdeaPad 110,$310.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-110-389339/overview/
+laptop,Lenovo,Ideapad 500S,$750.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-500s-385671/overview/
+laptop,Lenovo,Ideapad 510s,$690.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-510s-386297/overview/
+laptop,Lenovo,"Ideapad 700 15""",$850.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-700-15-385672/overview/
+laptop,Lenovo,"Ideapad 700 17""","$1,100.00",http://www.consumerreports.org/products/laptop/lenovo-ideapad-700-17-385673/overview/
+laptop,Lenovo,Ideapad Miix 700,$650.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-miix-700-385849/overview/
+laptop,Lenovo,Ideapad Yoga 700,$700.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-yoga-700-385674/overview/
+laptop,Lenovo,ThinkPad X1 Tablet,"$1,475.00",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-tablet-386111/overview/
+laptop,Lenovo,ThinkPad X260,"$1,175.00",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x260-386344/overview/
+laptop,Lenovo,"Yoga 710 14""","$1,000.00",http://www.consumerreports.org/products/laptop/lenovo-yoga-710-14-386361/overview/
+laptop,Lenovo,"Yoga 710 15""",$980.00,http://www.consumerreports.org/products/laptop/lenovo-yoga-710-15-386362/overview/
+laptop,Lenovo,Yoga 710 80V4000GUS,$805.00,http://www.consumerreports.org/products/laptop/lenovo-yoga-710-80v4000gus-387890/overview/
+laptop,Lenovo,Yoga 710 80V6000PUS,$700.00,http://www.consumerreports.org/products/laptop/lenovo-yoga-710-80v6000pus-387891/overview/
+laptop,Lenovo,Yoga 720-13IKB,$805.00,http://www.consumerreports.org/products/laptop/lenovo-yoga-720-13ikb-389336/overview/
+laptop,Lenovo,Yoga 720-15IKB,"$1,000.00",http://www.consumerreports.org/products/laptop/lenovo-yoga-720-15ikb-389337/overview/
+laptop,Lenovo,Yoga 900S,"$1,100.00",http://www.consumerreports.org/products/laptop/lenovo-yoga-900s-386282/overview/
+laptop,Lenovo,Yoga 910,"$1,115.00",http://www.consumerreports.org/products/laptop/lenovo-yoga-910-387892/overview/
+laptop,Lenovo,Z70- 80FG00DCUS,$935.00,http://www.consumerreports.org/products/laptop/lenovo-z70-80fg00dcus-385906/overview/
+laptop,LG,Gram 13 - Touchscreen,"$1,100.00",http://www.consumerreports.org/products/laptop/lg-gram-13-touchscreen-388777/overview/
+laptop,LG,gram 13Z950,$800.00,http://www.consumerreports.org/products/laptop/lg-gram-13z950-384803/overview/
+laptop,LG,Gram 14 - Touchscreen,"$1,165.00",http://www.consumerreports.org/products/laptop/lg-gram-14-touchscreen-388778/overview/
+laptop,LG,Gram 15 - Touchscreen,"$1,150.00",http://www.consumerreports.org/products/laptop/lg-gram-15-touchscreen-388773/overview/
+laptop,Microsoft,Surface 3,$395.00,http://www.consumerreports.org/products/laptop/microsoft-surface-3-384272/overview/
+laptop,Microsoft,Surface Book (512GB),"$2,800.00",http://www.consumerreports.org/products/laptop/microsoft-surface-book-512gb-388051/overview/
+laptop,Microsoft,"Surface Laptop (Core i5, 128GB)","$1,000.00",http://www.consumerreports.org/products/laptop/microsoft-surface-389343/overview/
+laptop,Microsoft,"Surface Laptop (Core i5, 256GB)","$1,300.00",http://www.consumerreports.org/products/laptop/microsoft-surface-laptop-core-i5-256gb-392723/overview/
+laptop,Microsoft,Surface Pro 3,$830.00,http://www.consumerreports.org/products/laptop/microsoft-surface-pro-3-272591/overview/
+laptop,Samsung,ATIV Book 9 Plus NP940X3K-K03US,"$1,200.00",http://www.consumerreports.org/products/laptop/samsung-ativ-book-9-plus-np940x3k-k03us-371600/overview/
+laptop,Samsung,Galaxy TabPro S,$750.00,http://www.consumerreports.org/products/laptop/samsung-galaxy-tabpro-s-385907/overview/
+laptop,Samsung,Notebook 5,$625.00,http://www.consumerreports.org/products/laptop/samsung-notebook-5-388770/overview/
+laptop,Samsung,Notebook 7 740U3L,$800.00,http://www.consumerreports.org/products/laptop/samsung-notebook-7-740u3l-387109/overview/
+laptop,Samsung,Notebook 7 Spin 13,$800.00,http://www.consumerreports.org/products/laptop/samsung-notebook-7-spin-13-388953/overview/
+laptop,Samsung,Notebook 7 Spin 15,"$1,000.00",http://www.consumerreports.org/products/laptop/samsung-notebook-7-spin-15-388954/overview/
+laptop,Samsung,Notebook 9,"$1,400.00",http://www.consumerreports.org/products/laptop/samsung-notebook-9-388637/overview/
+laptop,Toshiba,dynaPad WT12PE-A64,$450.00,http://www.consumerreports.org/products/laptop/toshiba-dynapad-wt12pe-a64-385691/overview/
+laptop,Toshiba,Satellite Click10 LX0W­C64,$275.00,http://www.consumerreports.org/products/laptop/toshiba-satellite-click10-lx0w-c64-384805/overview/
+laptop,Toshiba,Satellite Radius P25W-C2300-4K,$750.00,http://www.consumerreports.org/products/laptop/toshiba-satellite-radius-p25w-c2300-4k-385005/overview/
+laptop,Vaio,S,"$1,135.00",http://www.consumerreports.org/products/laptop/vaio-s-386113/overview/
+laptop,Acer,Aspire E5-574-53QS,$390.00,http://www.consumerreports.org/products/laptop/acer-aspire-e5-574-53qs-385910/overview/
+laptop,Acer,Aspire ES1-571-P1MG,$315.00,http://www.consumerreports.org/products/laptop/acer-aspire-es1-571-p1mg-386346/overview/
+laptop,Acer,Aspire One Cloudbook AO1-131-C9PM,$165.00,http://www.consumerreports.org/products/laptop/acer-aspire-one-cloudbook-ao1-131-c9pm-384806/overview/
+laptop,Acer,Aspire R5-571T-57Z0,$700.00,http://www.consumerreports.org/products/laptop/acer-aspire-r5-571t-57z0-388093/overview/
+laptop,Acer,Aspire R7-372T-54TM,$900.00,http://www.consumerreports.org/products/laptop/acer-aspire-r7-372t-54tm-387107/overview/
+laptop,Acer,Spin 5 SP513-51-55ZR,$570.00,http://www.consumerreports.org/products/laptop/acer-spin-5-sp513-51-55zr-388098/overview/
+laptop,Acer,Swift 3 SF314-51-52W2,$690.00,http://www.consumerreports.org/products/laptop/acer-swift-3-sf314-51-52w2-387923/overview/
+laptop,Apple,MacBook Air 13-inch MJVE2LL/A,"$1,000.00",http://www.consumerreports.org/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/overview/
+laptop,Apple,MacBook Pro 13-inch with Retina Display MF839LL/A,"$1,149.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-with-retina-display-mf839ll-a-374087/overview/
+laptop,Apple,MacBook Pro 15-inch with Retina Display MJLQ2LL/A,"$1,848.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-with-retina-display-mjlq2ll-a-381914/overview/
+laptop,Apple,MacBook Pro 15-inch with Touch Bar MPTU2LL/A,"$2,297.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-touch-bar-392574/overview/
+laptop,Asus,EeeBook E402MA-EH,$200.00,http://www.consumerreports.org/products/laptop/asus-eeebook-e402ma-eh-386280/overview/
+laptop,Asus,Q304UA-BBI5T10,$595.00,http://www.consumerreports.org/products/laptop/asus-q304ua-bbi5t10-386676/overview/
+laptop,Asus,T300CHI-RHM5T06,$475.00,http://www.consumerreports.org/products/laptop/asus-t300chi-rhm5t06-385010/overview/
+laptop,Asus,Transformer Book T100CHI-C1,$295.00,http://www.consumerreports.org/products/laptop/asus-transformer-book-t100chi-c1-379138/overview/
+laptop,Asus,VivoBook E403SA-US21,$370.00,http://www.consumerreports.org/products/laptop/asus-vivobook-e403sa-us21-386117/overview/
+laptop,Asus,X555YA-DB84Q,$430.00,http://www.consumerreports.org/products/laptop/asus-x555ya-db84q-387687/overview/
+laptop,Asus,ZenBook Flip UX360CA,$800.00,http://www.consumerreports.org/products/laptop/asus-zenbook-flip-ux360ca-387106/overview/
+laptop,Asus,ZenBook Pro UX501VW-DS71T,"$1,500.00",http://www.consumerreports.org/products/laptop/asus-zenbook-pro-ux501vw-ds71t-386108/overview/
+laptop,Dell,Inspiron I3452-600BLK,$210.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i3452-600blk-384994/overview/
+laptop,Dell,Inspiron i5568-5240,$580.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i5568-5240-387264/overview/
+laptop,Dell,Inspiron I7579-0028GRY,$800.00,http://www.consumerreports.org/products/laptop/dell-inspiron-i7579-0028gry-388094/overview/
+laptop,HP,ENVY x360 15t Touch 7th Gen,$730.00,http://www.consumerreports.org/products/laptop/hp-envy-x360-15t-touch-7th-gen-387889/overview/
+laptop,HP,Laptop 17.3,$790.00,http://www.consumerreports.org/products/laptop/hp-laptop-17-3-386464/overview/
+laptop,HP,Pavilion M1-U001DX,$400.00,http://www.consumerreports.org/products/laptop/hp-pavilion-m1-u001dx-386340/overview/
+laptop,HP,Pavilion x2 12b010nr,$500.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x2-12b010nr-385667/overview/
+laptop,HP,Pavilion x360 m3-u103dx,$700.00,http://www.consumerreports.org/products/laptop/hp-pavilion-x360-m3-u103dx-388096/overview/
+laptop,HP,Stream 11-y010nr,$200.00,http://www.consumerreports.org/products/laptop/hp-stream-11-y010nr-387459/overview/
+laptop,Huawei,Matebook,$515.00,http://www.consumerreports.org/products/laptop/huawei-matebook-387684/overview/
+laptop,Lenovo,110-15IBR 80T7000HUS,$300.00,http://www.consumerreports.org/products/laptop/lenovo-110-15ibr-386678/overview/
+laptop,Lenovo,300-17ISK 80QH008MUS,$330.00,http://www.consumerreports.org/products/laptop/lenovo-300-17isk-386677/overview/
+laptop,Lenovo,Flex 3 80LY0008US,$300.00,http://www.consumerreports.org/products/laptop/lenovo-flex-3-80ly0008us-385003/overview/
+laptop,Lenovo,Ideapad 300S,$530.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-300s-385670/overview/
+laptop,Lenovo,Ideapad Miix 310,$300.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-miix-310-387117/overview/
+laptop,Lenovo,Ideapad Y700 80NU000UUS,$800.00,http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80nu000sus-386451/overview/
+laptop,Lenovo,Ideapad Y700 80NW000PUS,"$1,000.00",http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80nw000pus-386453/overview/
+laptop,Lenovo,Ideapad Y700 80Q0008WUS,"$1,189.99",http://www.consumerreports.org/products/laptop/lenovo-ideapad-y700-80q0008wus-386452/overview/
+laptop,Lenovo,ThinkPad N22,$150.00,http://www.consumerreports.org/products/laptop/lenovo-thinkpad-n22-387458/overview/
+laptop,Lenovo,ThinkPad X1 Carbon 4th Gen,"$2,025.00",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-carbon-4th-gen-386343/overview/
+laptop,Lenovo,ThinkPad X1 Yoga,"$1,403.99",http://www.consumerreports.org/products/laptop/lenovo-thinkpad-x1-yoga-385732/overview/
+laptop,Lenovo,Y700-15ACZ,$800.00,http://www.consumerreports.org/products/laptop/lenovo-y700-15acz-386281/overview/
+laptop,LG,gram 14Z950,$900.00,http://www.consumerreports.org/products/laptop/lg-gram-14z950-384804/overview/
+laptop,LG,gram 15Z960,"$1,050.00",http://www.consumerreports.org/products/laptop/lg-gram-15z-960-386112/overview/
+laptop,Microsoft,Surface Book,"$1,300.00",http://www.consumerreports.org/products/laptop/microsoft-surface-book-384901/overview/
+laptop,Microsoft,Surface Pro 4,$900.00,http://www.consumerreports.org/products/laptop/microsoft-surface-pro-4-384902/overview/
+laptop,Samsung,ATIV Book 9 NP930X2K-K02US,$750.00,http://www.consumerreports.org/products/laptop/samsung-ativ-book-9-np930x2k-k02us-371599/overview/
+laptop,Samsung,Notebook 7 740U5LE,"$1,000.00",http://www.consumerreports.org/products/laptop/samsung-notebook-7-740u5le-387110/overview/
+laptop,Samsung,Notebook 9 NP900X3L-K06US,$850.00,http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x3l-k06us-385908/overview/
+laptop,Samsung,Notebook 9 NP900X5L-K02US,"$1,199.99",http://www.consumerreports.org/products/laptop/samsung-notebook-9-np900x5l-k02us-385909/overview/
+laptop,Samsung,Notebook 9 pro NP940Z5L-X01US,"$1,050.00",http://www.consumerreports.org/products/laptop/samsung-notebook-9-pro-np940z5l-x01us-385107/overview/
+laptop,Samsung,Notebook 9 spin NP940X3L-K01US,"$1,000.00",http://www.consumerreports.org/products/laptop/samsung-notebook-9-spin-np940x3l-k01us-385106/overview/
+laptop,Vaio,Z,"$1,479.00",http://www.consumerreports.org/products/laptop/vaio-z-386114/overview/
+laptop,Vaio,Z Canvas,"$1,540.00",http://www.consumerreports.org/products/laptop/vaio-z-canvas-385680/overview/
+laptop,Vaio,Z Flip,"$1,749.98",http://www.consumerreports.org/products/laptop/vaio-flip-z-385731/overview/
+laptop,Acer,Aspire E5-575T-3678,$400.00,http://www.consumerreports.org/products/laptop/acer-aspire-e5-575t-3678-388641/overview/
+laptop,Acer,Aspire ES 15 E5-573-35JA,$250.00,http://www.consumerreports.org/products/laptop/acer-aspire-es-15-e5-573-35ja-386283/overview/
+laptop,Acer,Aspire ES1-533-C55P,$280.00,http://www.consumerreports.org/products/laptop/acer-aspire-es1-533-c55p-388642/overview/
+laptop,Acer,Aspire F5-573-505W,$500.00,http://www.consumerreports.org/products/laptop/acer-aspire-f5-573-505w-386465/overview/
+laptop,Acer,Aspire Nitro VN7- 592G-77,"$1,115.00",http://www.consumerreports.org/products/laptop/acer-aspire-nitro-vn7-592g-77-386284/overview/
+laptop,Acer,Aspire R3-131T-P6G7,$450.00,http://www.consumerreports.org/products/laptop/acer-aspire-r3-131t-p6g7-387266/overview/
+laptop,Acer,Aspire R5-571T-59DC,$585.00,http://www.consumerreports.org/products/laptop/acer-aspire-r5-571t-59dc-386554/overview/
+laptop,Acer,Aspire S 13 S5-371T-76CY,"$1,050.00",http://www.consumerreports.org/products/laptop/acer-aspire-s-13-s5-371t-76cy-387895/overview/
+laptop,Acer,Aspire S5-371-52JR,$715.00,http://www.consumerreports.org/products/laptop/acer-aspire-s5-371-52jr-386553/overview/
+laptop,Acer,Aspire Switch 10 SW5-015-198P,$350.00,http://www.consumerreports.org/products/laptop/acer-aspire-switch-10-sw5-015-198p-386345/overview/
+laptop,Acer,Aspire V5-591G-55PV,$800.00,http://www.consumerreports.org/products/laptop/acer-aspire-v5-591g-55pv-387108/overview/
+laptop,Acer,Spin 1 SP111-31-C2W3,$250.00,http://www.consumerreports.org/products/laptop/acer-spin-1-sp111-31-c2w3-388639/overview/
+laptop,Acer,Swift 7 SF713-51-M90J,"$1,000.00",http://www.consumerreports.org/products/laptop/acer-swift-7-sf713-51-m90j-387922/overview/
+laptop,Acer,Switch Alpha 12 SA5-271-594J,$700.00,http://www.consumerreports.org/products/laptop/acer-switch-alpha-12-sa5-271-594j-386446/overview/
+laptop,Apple,MacBook 12-inch MF855LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-mf855ll-a-377002/overview/
+laptop,Apple,MacBook 12-inch MLHE2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-mlhe2ll-a-386115/overview/
+laptop,Apple,MacBook 12-inch MNYH2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-12-inch-392572/overview/
+laptop,Apple,MacBook Air 11-inch MJVM2LL/A,$900.00,http://www.consumerreports.org/products/laptop/apple-macbook-air-11-inch-mjvm2ll-a-374085/overview/
+laptop,Apple,MacBook Pro 13-inch MLH12LL/A,"$1,800.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-mlh12ll-a-388053/overview/
+laptop,Apple,MacBook Pro 13-inch MLL42LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-mll42ll-a-388052/overview/
+laptop,Apple,MacBook Pro 13-inch MPXR2LL/A,"$1,300.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-13-inch-no-touch-bar-392573/overview/
+laptop,Apple,MacBook Pro 15-inch MLH32LL/A,"$2,400.00",http://www.consumerreports.org/products/laptop/apple-macbook-pro-15-inch-mlh32ll-a-388054/overview/
+laptop,Asus,Q304UA-BHI5T11,$650.00,http://www.consumerreports.org/products/laptop/asus-q304ua-bhi5t11-387894/overview/
+laptop,Asus,Q324UA-BHI7T17,"$1,100.00",http://www.consumerreports.org/products/laptop/asus-q324ua-bhi7t17-387893/overview/
+laptop,Asus,Q524UQ-BBI7T14,$880.00,http://www.consumerreports.org/products/laptop/asus-q524uq-bbi7t14-386679/overview/
+laptop,Asus,Q524UQ-BHI7T15,"$1,000.00",http://www.consumerreports.org/products/laptop/asus-q524uq-bhi7t15-388948/overview/
+laptop,Asus,Transformer Book T300CHI-F1-DB,$465.00,http://www.consumerreports.org/products/laptop/asus-transformer-book-t300chi-f1-db-381372/overview/
+laptop,Asus,VivoBook E200HA-US01,$200.00,http://www.consumerreports.org/products/laptop/asus-vivobook-e200ha-us01-385911/overview/
+laptop,Asus,VivoBook Pro N552VX,"$1,300.00",http://www.consumerreports.org/products/laptop/asus-vivobook-pro-n552vx-387457/overview/
+laptop,Dell,Inspiron 11 3000,$180.00,http://www.consumerreports.org/products/laptop/dell-inspiron-11-3000-385665/overview/
+laptop,Dell,Inspiron 11 3000 3rd Gen,$400.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-11-3000-3rd-gen-387111/overview/
+laptop,Dell,Inspiron 13 5000,$700.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-13-5000-387112/overview/
+laptop,Dell,Inspiron 13 7000 3rd Gen,$870.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-13-7000-3rd-gen-387114/overview/
+laptop,Dell,Inspiron 15 5000 3rd-Gen,$785.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-15-5000-3rd-gen-387113/overview/
+laptop,Dell,Inspiron 15 7000 3rd-Gen,$750.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-15-7000-3rd-gen-387115/overview/
+laptop,Dell,Inspiron 17 7000 3rd-Gen,$900.00,http://www.consumerreports.org/products/laptop/brondell-inspiron-17-7000-3rd-gen-387116/overview/

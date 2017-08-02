@@ -1,0 +1,26 @@
+<a class="rj-tab" role="tab" data-toggle="tab" id="user-reviewsanchor" data-path="/user-reviews/" aria-controls="user-reviews" href="#user-reviews">User Reviews</a>
+
+//*[@id="user-reviewsanchor"]
+
+### ('//div/[@class="product-model-name-container"]')
+
+<section class="pr-review-snippet-container " data-reactid-powerreviews=".0"><div class="pr-snippet-stars-reco-inline pr-snippet-standard" data-reactid-powerreviews=".0.0"><div class="pr-snippet-stars-reco-stars" data-reactid-powerreviews=".0.0.0"><div class="pr-snippet" data-reactid-powerreviews=".0.0.0.0"><div class="pr-snippet-stars-container" data-reactid-powerreviews=".0.0.0.0.0"><div class="pr-snippet-stars pr-snippet-stars-png " data-reactid-powerreviews=".0.0.0.0.0.0"><div aria-hidden="true" role="radiogroup" class="pr-rating-stars" data-reactid-powerreviews=".0.0.0.0.0.0.0"><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".0.0.0.0.0.0.0.$1"></div><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".0.0.0.0.0.0.0.$2"></div><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".0.0.0.0.0.0.0.$3"></div><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".0.0.0.0.0.0.0.$4"></div><div role="radio" class="pr-star-v4 pr-star-v4-75-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".0.0.0.0.0.0.0.$5"></div></div><div aria-hidden="true" class="pr-snippet-rating-decimal" data-reactid-powerreviews=".0.0.0.0.0.0.1">4.8</div></div><span class="pr-accessible-text" data-reactid-powerreviews=".0.0.0.0.0.1">Rated 4.83 out of 5 stars</span></div><div class="pr-snippet-read-and-write" data-reactid-powerreviews=".0.0.0.0.1"><a href="#" class="pr-snippet-review-count" data-reactid-powerreviews=".0.0.0.0.1.0">6 Reviews</a><a href="/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/write-reviews/" class="pr-snippet-write-review-link" data-reactid-powerreviews=".0.0.0.0.1.2">Write a Review</a></div></div></div><div class="pr-snippet-stars-reco-reco" data-reactid-powerreviews=".0.0.1"><div class="pr-snippet-reco-to-friend" aria-label="100% of respondents would recommend this to a friend" data-reactid-powerreviews=".0.0.1.0"><div class="pr-snippet-reco-to-friend-percent pr-snippet-reco-to-friend-green" aria-ignore="true" data-reactid-powerreviews=".0.0.1.0.0"><span class="pr-checkbox-icon" data-reactid-powerreviews=".0.0.1.0.0.0"><svg viewBox="0 0 176 176" data-reactid-powerreviews=".0.0.1.0.0.0.0"><circle fill="#8DC441" stroke="white" stroke-width="8" cx="88" cy="88" r="81.2" data-reactid-powerreviews=".0.0.1.0.0.0.0.0"></circle><path fill="white" stroke="white" stroke-width="5" d="M77.2 121.3L43 87.2l5.5-5.6 28.7 28.6 50.3-50.3 5.5 5.6" data-reactid-powerreviews=".0.0.1.0.0.0.0.1"></path></svg></span><div class="pr-reco pr-reco-green" data-reactid-powerreviews=".0.0.1.0.0.1"><span class="pr-reco-value" data-reactid-powerreviews=".0.0.1.0.0.1.0">100% </span></div></div><span class="pr-reco-to-friend-message" data-reactid-powerreviews=".0.0.1.0.1">of respondents would recommend this to a friend</span></div></div><div style="clear:both;" data-reactid-powerreviews=".0.0.2"></div></div></section>
+
+
+
+<div class="pr-rd-star-rating" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0"><div aria-ignore="true" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0"><div class="pr-snippet-stars pr-snippet-stars-png " data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0"><div aria-hidden="true" role="radiogroup" class="pr-rating-stars" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0">
+
+<div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0.$1"></div><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0.$2">
+</div>
+<div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0.$3">
+</div>
+<div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0.$4"></div><div role="radio" class="pr-star-v4 pr-star-v4-100-filled" aria-checked="true" tabindex="-1" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.0.$5">
+</div>
+</div>
+
+<div aria-hidden="true" class="pr-snippet-rating-decimal" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.0.0.1">5</div>
+</div>
+</div>
+
+<span class="pr-accessible-text" data-reactid-powerreviews=".2.3.2:$review-content-0.1:$header.0.1">.    Rated 5 out of 5 stars</span></div>
+<span class="pr-accessible-text" data-reactid-powerreviews=".2.2.$header-1.1.0.0.0.0.1">                 Rated 4.83 out of 5 stars</span>

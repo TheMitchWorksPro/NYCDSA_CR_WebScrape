@@ -1,0 +1,91 @@
+
+https://free-proxy-list.net
+https://stackoverflow.com/questions/31639742/how-to-pass-all-pythons-traffics-through-a-http-proxy
+
+=============
+Main URLs:
+=============
+
+Level 1:  Index of individual product URLs organized in pages ...
+
+http://www.consumerreports.org/products/laptop/ratings-overview/
+  - has at least 6 pages of links 
+
+http://www.consumerreports.org/products/desktop-computer/ratings-overview/
+  - has three pages of links
+
+http://www.consumerreports.org/products/chromebooks/ratings-overview/
+  - has one page of links
+
+
+===================================
+IDEAS FOR FUTURE:
+===================================
+
+The spread/gather problem:
+* problem: 
+  * need to define items up front for spider to use
+  * but we want to infer items from two columns of data - how?
+* possible approach:
+  * can "AdvancedItem" obj inherit from items
+  * then do the spread/gather of label/value within it
+  * then pass AdvancedItem to csvwriter so it builds the right
+  * kind of table while running?
+
+
+=================================
+sample HTML and XPaths From CR
+=================================
+
+Next Page click - Numbers:
+<li class="page-number"><a href="javascript:void(0)">2</a></li>
+
+Next Page click - next button:
+<li class="page-next"><a href="javascript:void(0)"><i class="fa fa-chevron-right" aria-hidden="true"></i></a></li>
+
+Index page:  product title
+<span class="model-meta__title">Aspire E5-574-53QS</span>
+
+Index page:  price:
+//*[@id="price-and-shop-table"]/tbody/tr[1]/td/div/div[2]/div[3]/a/span
+
+<div class="model-meta__mobile-price hidden-lg hidden-md hidden-print">
+                                            <span class="model-meta__mobile-price__prefix">From: </span>
+                                                                                            <a href="/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/price-and-shop/#Price">
+                                                    <span class="product-model-price-container price-model legacy-99054361" data-price-model-id="99054361">$1,000.00</span>
+                                                </a>
+                                                <span class="model-meta__mobile-price__suffix"></span>
+                                                                                                                                </div>
+
+<span class="product-model-price-container price-model legacy-99056857" data-price-model-id="99056857">$390.00</span>
+<div class="model__model-meta">
+                                        <div class="text-wrap">
+                                            <a href="/products/laptop/acer-aspire-e5-574-53qs-385910/overview/"><strong>Acer</strong>
+                                             <span class="model-meta__title">Aspire E5-574-53QS</span></a>
+                                        </div>
+                                                                                <div class="model-meta__subscribe hidden-sm hidden-xs hidden-print ">
+                                            <a href="https://ec.consumerreports.org/ec/cro/order.htm">Subscribe Now!</a>
+                                        </div>
+                                                                                <div class="model-meta__mobile-price hidden-lg hidden-md hidden-print">
+                                            <span class="model-meta__mobile-price__prefix">From: </span>
+                                                                                            <a href="/products/laptop/acer-aspire-e5-574-53qs-385910/price-and-shop/#Price">
+                                                    <span class="product-model-price-container price-model legacy-99056857" data-price-model-id="99056857">$390.00</span>
+                                                </a>
+                                                <span class="model-meta__mobile-price__suffix"></span>
+                                                                                                                                </div>
+                                    </div>
+
+
+/html/body/div[5]/div[2]/section/div[3]
+
+body > div.container.main-container > div.row.row-mobile > section > div.bootstrap-table
+<div class="bootstrap-table"
+
+//section//div[@class="bootstrap-table"]
+
+
+
+<span class="product-model-spec-item-tooltip-text">
+                                                <strong>Display size</strong>
+                                                The diagonal measure of the LCD (Liquid Crystal Display) screen.
+                                            </span>

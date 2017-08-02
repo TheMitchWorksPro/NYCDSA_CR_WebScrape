@@ -1,0 +1,147 @@
+
+<script>
+        $(function($) {
+            loadTabComponents("user-reviews", true);
+            setTimeout(function () {
+                newsAPIService("/bin/feedinfo.tag=productsAndServices:taxonomy%7CelectronicsComputers%7CcomputersInternet%7Ccomputers%7Claptops.limit=4.json");
+                /*pricing section trigger function*/
+                var pricing = new $.modelPricing({
+                    categoryid: '304',
+                    modelSellerDataSelector: "#price-table", /*an example of how to override defaults */
+                    showPriceRange: true,
+                    modelid: "99054361"
+                });
+                pricing.publish("99054361", "Apple MacBook Air 13-inch MJVE2LL/A Computer");
+
+                triggerNavClicks("/products/laptop/apple-macbook-air-13-inch-mjve2ll-a-374086/overview/"); //NavClicks registration
+
+
+                var compareModelStorageManager = null;
+                var modelIdFromStorage = null;
+                var noOfModels;
+                var isCurrModelinBasket = false;
+                var index = 0;
+                System.import('//static5.consumerreportscdn.org/build/js/common/CompareModelStorageManager.js')
+                    .then(function (m) {
+                        compareModelStorageManager = new m.CompareModelStorageManager();
+                        modelIdFromStorage = compareModelStorageManager.getModelIdsAsString($(".product-model-compare-button").attr("x-Supercat-id"));
+                        $(".product-model-compare-button button").addClass("active");
+                        if (modelIdFromStorage != null && modelIdFromStorage != "") {
+                            modelArr = modelIdFromStorage.split("-");
+                            modeltoRemove = modelIdFromStorage.split("-");
+                            var currentModel = $("#currentModel").attr("x-compare-model-id");
+                            if (currentModel != null && (jQuery.inArray(currentModel, modelArr) !== -1)) {
+                                isCurrModelinBasket = true;
+                            }
+                            $(".compare-basket").each(function (index, value) {
+                                var attrModel = $(this).attr("x-compare-model-id");
+                                if (attrModel != null && (jQuery.inArray(attrModel, modelArr) !== -1)) {
+                                    $(this).addClass("compare-basket-added");
+                                }
+                            });
+                            noOfModels = compareModelStorageManager.countModels($(".product-model-compare-button").attr("x-Supercat-id"));
+                            if ((isCurrModelinBasket && noOfModels > 2) || (noOfModels == 2 && !isCurrModelinBasket)) {
+                                $('.compare-basket:not(.compare-basket-added)').addClass('gray-out');
+                            }
+                        }
+                    })
+                    .catch(function (err) {
+                        console.error(err);
+                    });
+
+                $('.compare-basket').on('click', function (e) {
+
+                    if(!$(this).hasClass('gray-out')) {
+                        var removingModelId = $(this).attr('x-compare-model-id');
+                        if ($(this).hasClass("compare-basket-added")) {
+                            compareModelStorageManager.removeModelById(removingModelId);
+                            $(this).removeClass('compare-basket-added');
+                            $('.compare-basket[x-compare-model-id=' + removingModelId + ']').removeClass('compare-basket-added');
+                            $('.compare-basket').removeClass('gray-out');
+                        } else {
+                            var modelJSON = {
+                                "id": removingModelId,
+                                "displayName": $(this).attr('x-dispName'),
+                                "brand": {"displayName": $(this).attr('x-brand-dispName')},
+                                "supercategory": {
+                                    "id": $(this).attr('x-superCatId'),
+                                    "pluralName": $(this).attr('x-superPlural')
+                                }
+                            };
+                            var modelObj = compareModelStorageManager.deserializeCroModel(JSON.stringify(modelJSON));
+                            compareModelStorageManager.addModel(modelObj);
+                            $(this).addClass('compare-basket-added');
+                            $('.compare-basket[x-compare-model-id=' + removingModelId + ']').addClass('compare-basket-added');
+                            noOfModels = compareModelStorageManager.countModels($('.product-model-compare-button').attr('x-Supercat-id'));
+
+                            if ((isCurrModelinBasket && noOfModels > 2) || (noOfModels == 2 && !isCurrModelinBasket)) {
+                                $('.compare-basket:not(.compare-basket-added)').addClass('gray-out');
+                            }
+                        }
+                    }
+
+                    e.stopPropagation();
+                });
+
+                $(".product-model-compare-button").bind("click", function (e) {
+                    var superCategoryId = $(this).attr("x-Supercat-id");
+                    noOfModels = compareModelStorageManager.countModels(superCategoryId);
+                    if (noOfModels < 3 && !isCurrModelinBasket) {
+                        var currentModelJSON = {
+                            "id": $("#currentModel").attr("x-compare-model-id"),
+                            "displayName": $("#currentModel").attr("x-dispName"),
+                            "brand": {"displayName": $("#currentModel").attr("x-brand-dispName")},
+                            "supercategory": {
+                                "id": $("#currentModel").attr("x-superCatId"),
+                                "pluralName": $("#currentModel").attr("x-superPlural")
+                            }
+                        };
+                        var currmodelObj = compareModelStorageManager.deserializeCroModel(JSON.stringify(currentModelJSON));
+                        compareModelStorageManager.addModel(currmodelObj);
+                    }
+                    compareModelStorageManager.setCurrentSuperCategoryId(superCategoryId);
+                    var modelIds = compareModelStorageManager.getModelIdsAsString(superCategoryId);
+                    window.location.href='/products/compare/?id='+modelIds;
+                });
+
+            }, 200);
+            initializeGallery();
+
+            $(".product-model-spec-item-tooltip").bind("mouseenter touchenter", function (e) {
+                var carrotHeight = 30;
+                var usabillaTooltip = 40;
+                var attributeOffset = $(this).children("span").eq(0).offset().top;
+                var tooltipHeight = $(this).children("span").eq(0).outerHeight();
+                var windowOffset = $(window).scrollTop();
+                var windowHeight = $(window).height();
+          
+
+
+                if (tooltipHeight >= windowHeight) {
+                    $(window).scrollTop($(this).offset().top);
+                } else if ((attributeOffset + tooltipHeight + carrotHeight) > (windowOffset + windowHeight)) {
+                    $(window).scrollTop(windowOffset + usabillaTooltip + (tooltipHeight - (windowHeight + windowOffset - attributeOffset)));
+                }
+            });
+
+            $(document).on('read-user-reviews-click', function() {
+                if(MobileEsp.DetectMobileQuick()) {
+                    var $userReviewsSection = $('#user-reviewsMobile');
+                    var $userReviewsTab = $('#mobile-tabs a[href=\'#user-reviewsMobile\']');
+                    openMobileTab($userReviewsSection, $userReviewsTab, '#user-reviews');
+                } else {
+                    $('#desktop-tabs a[href=\'#user-reviews\']').trigger('click');
+                }
+            });
+
+            $(document).on('write-user-reviews-click', function() {
+                $('a[data-path="/user-reviews/"]:visible').click();
+                _scrollToReviews();
+            });
+            function _scrollToReviews() {
+                $('html, body').animate({
+                    scrollTop: $('#reviews').offset().top
+                }, 300);
+            };
+        });
+    </script>
