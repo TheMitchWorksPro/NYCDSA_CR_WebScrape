@@ -1,6 +1,6 @@
 # NYCDSA_CR_WebScrape
 
-## About This Project And Some Main Files
+## About This Project And Presentation Content Files
 
 NYC DSA WebScraping Project - Mitch
 
