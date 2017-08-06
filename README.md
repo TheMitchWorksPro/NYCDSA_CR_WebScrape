@@ -13,6 +13,8 @@ This project scrapes desktop computer, laptop computer, and Google Chromebook re
 ## Guide To The Code Within This Project
 ### Web Scraping Code for Consumer Reports Site
 
+A number of interim files get created and then used by different code files in this process.  You can find these files stored with the code in the folders where they are created/used.
+
 Run the code in this order:
 
 1. [Selenium Scripts to Scrape Indiv. Product URLs](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/WebScraping/):
