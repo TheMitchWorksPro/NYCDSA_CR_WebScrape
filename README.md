@@ -16,25 +16,36 @@ A Blog post link that can tie all of this content together is coming soon ...  T
 
 Run the code in this order:
 
-1. xxx
-2. xxx
-3. xxx
+1. [Selenium Scripts to Scrape Indiv. Product URLs](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/WebScraping/):
+   1. cr_computers_laptops.py  => scrapes products urls for laptops
+   2. cr_computers_desktops.py => scrapes product urls for desktops
+   3. cr_computers_cbks.py     => scrapes product urls for Chromebooks
+  
+2. Then run the [scrapy spider](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/WebScraping/cr_computers/cr_computers/spiders) 
+   1. filename:  cr_computers_spider.py
+   2. make sure the cr_reviewPageURLs_AllComputers.csv is located at this location in spider folder layout even though the spider file is nested deeper
+   3. note: there is an "_TEST" file in the same folder you can use to test just a few records beore doing the full run.  You will see lines of code you can comment and switch to to use the test file while setting up to repeat the process
+   
+3. Finally, in the [same folder](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/WebScraping/) as the scripts from step (1), run this Selenium script to gather the user review data:
+   - cr_computers_rvws.py
 
 ### Data Munging and Analysis Files
 
 There is a little data munging in a few of the final analysis files but overall, the process is separated out.  To prepare
 and preprocess the data, run the output files of the screen scraping process through these code files in this order:
 
-1. xx
+1. coming soon ...
 2. xx
 3. xx
 
 #### Final Analysis Code
 
-This is a list ofthe files that actually contain the analysis that was the goal of this project.  Not as much was done
+This is a list of the files that actually contain the analysis that was the goal of this project.  Not as much was done
 as I would have liked to.  Time was a factor.  But hopefully, you may find some of this interesting or useful.  :-)
 
-1. xx
-2. xx
+These files are contained in the same folder as the "[Data Munging](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/Data_Munging)" scripts:
+
+1. [TMWP_CR_Spec_TableAnalysis1.ipynb](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/Data_Munging/TMWP_CR_Spec_TableAnalysis1.ipynb) - Jupyter Notebook with Specification Data Analysis in it
+2. under development ... coming soon ...
 3. xx
 
