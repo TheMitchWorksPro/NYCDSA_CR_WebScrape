@@ -72,7 +72,13 @@ docs <- tm_map(docs, removeNumbers)
 docs <- tm_map(docs, removeWords, stopwords("english"))
 # Remove your own stop word
 # specify your stopwords as a character vector
-docs <- tm_map(docs, removeWords, c("will", "time", "use", "tech", "hour", "key", "can", "one", "get","buy", "need", "lot", "product")) 
+docs <- tm_map(docs, removeWords, c("use", "will", "time", "tech", "hour", "key", "even", "well",
+                                    "year", "bought", "purcha", "also", "much", "just", "thing", "system",
+                                    "without", "take", "size", "two", "second", "set", "first", "third",
+                                    "can", "one", "get","buy", "need", "lot", "product", "now", "long", "comput", "consid",
+                                    "type", "model", "reason", "less", "never", "close", "review", "general", "way",
+                                    "ever", "seem", "got", "note", "howev", "around", "made", "alway", "still", "everi", "back",
+                                    "almost", "combin", "tri", "anythi", "enough")) 
 # Remove punctuations
 docs <- tm_map(docs, removePunctuation)
 # Eliminate extra white spaces
@@ -91,7 +97,7 @@ dtm <- TermDocumentMatrix(docs)
 m <- as.matrix(dtm)
 v <- sort(rowSums(m),decreasing=TRUE)
 d <- data.frame(word = names(v),freq=v)
-head(d, 25)
+head(d, 200)
 
 ```
 Generate the Word cloud
