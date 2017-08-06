@@ -4,12 +4,11 @@
 
 NYC DSA WebScraping Project - Mitch
 
-This project scrapes desktop computer, laptop computer, and Google Chromebook reviews off the Consumer Reports website.  The presentation for this project can be found here
+This project scrapes desktop computer, laptop computer, and Google Chromebook reviews off the Consumer Reports (CR) website.  The presentation for this project can be found here
 
-- [First part of Presentation - PDF](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/Adventures%20in%20Data%20Munging.pdf)
-- [Second Part - Review of Analysis Jupyter Notebook (as HTML)](http://htmlpreview.github.io/?https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/TMWP_CR_Spec_TableAnalysis1.html)
-
-A Blog post link that can tie all of this content together is coming soon ...  The outline below will be completed soon as well ...
+- [First part of Presentation - PDF](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/Adventures%20in%20Data%20Munging.pdf) - includes CR reviews word clouds.
+- [Second Part - Review of Analysis Jupyter Notebook (as HTML)](http://htmlpreview.github.io/?https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/TMWP_CR_Spec_TableAnalysis1.html) - has graphs and analysis of CR specification data
+- \<blog coming soon\> - Content to tie this all together, talk about the process and updated positive reviews word cloud
 
 ## Guide To The Code Within This Project
 ### Web Scraping Code for Consumer Reports Site
@@ -40,12 +39,13 @@ and preprocess the data, run the output files of the screen scraping process thr
 
 #### Final Analysis Code
 
-This is a list of the files that actually contain the analysis that was the goal of this project.  Not as much was done
-as I would have liked to.  Time was a factor.  But hopefully, you may find some of this interesting or useful.  :-)
+This is a list of the code files that that were used to create the analysis that was the goal of this project.  Not as much was done as I would have liked to.  Time was a factor.  But hopefully, you may find some of this interesting or useful.  :-)
 
 These files are contained in the same folder as the "[Data Munging](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/Data_Munging)" scripts:
 
 1. [TMWP_CR_Spec_TableAnalysis1.ipynb](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/Data_Munging/TMWP_CR_Spec_TableAnalysis1.ipynb) - Jupyter Notebook with Specification Data Analysis in it
-2. under development ... coming soon ...
-3. xx
+2. WordCloudExp.Rmd - code updated for word cloud included in the blog
+3. WordCloudExp2.Rmd - code for Negative Reviews (no words excluded from the cloud)
+4. WordCloudExp3.Rmd - code for all reviews (no words excluded from the cloud)
+
 
