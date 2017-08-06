@@ -8,7 +8,10 @@ This project scrapes desktop computer, laptop computer, and Google Chromebook re
 
 - [First part of Presentation - PDF](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/Adventures%20in%20Data%20Munging.pdf) - includes CR reviews word clouds.
 - [Second Part - Review of Analysis Jupyter Notebook (as HTML)](http://htmlpreview.github.io/?https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/blob/master/TMWP_CR_Spec_TableAnalysis1.html) - has graphs and analysis of CR specification data
-- \<blog coming soon\> - Content to tie this all together, talk about the process and updated positive reviews word cloud
+- [Blog Post:  An Iterative Approach to Data Science](http://blog.nycdatascience.com/data-science-news-and-sharing/iterative-approach-data-science/) - 
+  - Content to tie this all together, 
+  - Discuss the process and 
+  - Provide updated Positive Reviews WordCloud
 
 ## Guide To The Code Within This Project
 ### Web Scraping Code for Consumer Reports Site
