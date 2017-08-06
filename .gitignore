@@ -9,6 +9,10 @@ __pycache__/
 # for Mac
 .DS_Store
 
+# sublmie text project files
+*.sublime-project
+*.sublime-workspace
+
 # for R
 .RData
 
