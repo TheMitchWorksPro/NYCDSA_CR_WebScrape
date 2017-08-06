@@ -33,9 +33,11 @@ Run the code in this order:
 There is a little data munging in a few of the final analysis files but overall, the process is separated out.  To prepare
 and preprocess the data, run the output files of the screen scraping process through these code files in this order:
 
-1. coming soon ...
-2. xx
-3. xx
+1. [Webscraping](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape) folder -> CR_WebScraping_URLData_Consolidation_TMWP.ipynb
+2. [Data Munging](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/Data_Munging) folder:
+   1. TMWP_CR_ReviewsReorganization_TMWP.ipynb
+   2. cr_dataTransforms1_R.Rmd
+   3. cr_dataTransforms2_R.Rmd
 
 #### Final Analysis Code
 
