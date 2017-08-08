@@ -46,7 +46,7 @@ and preprocess the data, run the output files of the screen scraping process thr
 
 #### Final Analysis Code
 
-This is a list of the code files that that were used to create the analysis that was the goal of this project.  Not as much was done as I would have liked to.  Time was a factor.  But hopefully, you may find some of this interesting or useful.  :-)
+This is a list of the code files that that were used to create the analysis that was the goal of this project.  Not as much was done as I would have liked to.  Time was a factor.  But hopefully, you may find some of this interesting or useful.
 
 These files are contained in the same folder as the "[Data Munging](https://github.com/TheMitchWorksPro/NYCDSA_CR_WebScrape/tree/master/Data_Munging)" scripts:
 
